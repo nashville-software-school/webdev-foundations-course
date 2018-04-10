@@ -23,6 +23,8 @@ An online service that provides video lectures, coding tutorials, quizzes, and c
 This book provides focused examples of the JavaScript language's syntax and provides web-based exercises for you to practice, practice, practice. The exercises can be repetitive, but gaining a solid base in what the basic JavaScript language looks like will definitely prepare you for writing more complex code in class.
 
 
+
+
 ## Getting Started
 
 We want your time to be used as effectively as possible because we truly care about making sure you are ready to go on day 1. Therefore, we are providing some guidance on how you should work your way through the pre-work.
@@ -85,6 +87,8 @@ You will learn the basics of using JavaScript to actually modify the HTML once t
 :hourglass:️ estimate: 3.5 hours
 
 
+
+
 ## Beyond the Basics
 
 After you have completed the content in the Getting Started section, if anything is still very confusing, please go back and cover the material again before you start on anything else.  Everything in this section, and beyond, is not required knowledge to get you through the first couple weeks of class.
@@ -113,6 +117,8 @@ Software developers live in the console or terminal. You may have seen this on T
 
 The rest of the content in that section will be helpful later in the course but isn't needed on day 1.
 
+
+
 ## Optional Advanced Content
 
 The following content is only for those students who truly feel comfortable with all of the content they've learned so far, or if you have some previous development experience and are coming to NSS to take it to the next level.
@@ -123,6 +129,8 @@ On Team Treehouse Front End Development track, complete the following sections.
 1. CSS Flexbox Layout
 1. AJAX Basics
 1. The remaining content in the Console Foundations section
+
+
 
 ## Content To Skip
 
