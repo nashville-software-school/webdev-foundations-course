@@ -62,7 +62,7 @@ Start with the Smarter Way to Learn JavaScript book. Practice the basics of writ
 1. JavaScript arrays in chapters 15-20
 1. JavaScript functions in chapters 35-38
 
-:hourglass:️  estimate: 3 hours
+:hourglass:️  estimate 5 hours
 
 ### Step 4
 
