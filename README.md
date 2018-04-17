@@ -87,7 +87,9 @@ You will learn the basics of using JavaScript to actually modify the HTML once t
 :hourglass:️ estimate: 3.5 hours
 
 
-> we know this is a lot to keep track of, so we made you a simple tool to help - tracker.nss.team
+
+> we know this is a lot to keep track of, so we made you a simple tool to help here(tracker.nss.team)
+
 
 
 ## Beyond the Basics
