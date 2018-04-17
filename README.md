@@ -35,6 +35,8 @@ Get your subscription to Team Treehouse. As soon as you're signed up, you will g
 
 Make sure your profile is set to public and then email the URL to jeremiah.vasquez@nashvillesoftwareschool.com.
 
+This pre-work plan has many different parts to it, so we made you a simple tool to keep track of your progress. You can access that tool at tracker.nss.team
+
 ### Step 1
 
 On Team Treehouse, work your way through the Digital Literacy track. If you are inexperienced with your computer's capabilities, then this track will provide you with some more advanced knowledge of what your computer is capable of doing. If you've used computers primarily for email, social media, and watching videos, this track is for you.
@@ -85,10 +87,6 @@ Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters
 You will learn the basics of using JavaScript to actually modify the HTML once the browser has used it to build a web page.
 
 :hourglass:️ estimate: 3.5 hours
-
-
-
-> we know this is a lot to keep track of, so we made you a simple tool to help (tracker.nss.team)
 
 
 
