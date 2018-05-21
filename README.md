@@ -35,7 +35,7 @@ Get your subscription to Team Treehouse. As soon as you're signed up, you will g
 
 Make sure your profile is set to public and then email the URL to jeremiah.vasquez@nashvillesoftwareschool.com.
 
-This pre-work plan has many different parts to it, so we made you a simple tool to keep track of your progress. **You can access that tool at tracker.nss.team
+This pre-work plan has many different parts to it, so we made you a simple tool to keep track of your progress. **You can access that tool at tracker.nss.team**
 
 ### Step 1
 
