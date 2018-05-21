@@ -1,6 +1,6 @@
 # Welcome to Nashville Software School!
 
-Thank you for choosing us to guide you through your journey to become a software developer. We are eagerly awaiting your arrival for the first day of class on Monday, May 21 at 9:00 a.m.
+Thank you for choosing us to guide you through your journey to become a software developer. We are eagerly awaiting your arrival for the first day of class on Monday, July 2 at 9:00 a.m.
 
 We want to ensure that you are as prepared as possible for the technologies and concepts that your instruction staff will be coaching you through in the first few weeks, so we have prepared a pre-work program. These resources will provide you with the basic skills, terminology, and context for what it will be like at Nashville Software School.
 
@@ -82,7 +82,7 @@ Complete the Git Basics section of the Front End Developer track on Team Treehou
 
 ### Step 6
 
-Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters 55-68 which are an introduction to the true power of JavaScript for software developers that write applications like Facebook, Pinterest, and Google Maps. 
+Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters 55-59 and 62-68 which are an introduction to the true power of JavaScript for software developers that write applications like Facebook, Pinterest, and Google Maps. 
 
 You will learn the basics of using JavaScript to actually modify the HTML once the browser has used it to build a web page.
 
