@@ -129,7 +129,7 @@ On Team Treehouse Front End Development track, complete the following sections.
 1. [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts)
 1. [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout)
 1. [AJAX Basics](https://teamtreehouse.com/library/ajax-basics)
-1. The remaining content in the Console Foundations section
+1. [The remaining content in the Console Foundations section](https://teamtreehouse.com/library/console-foundations)
 
 
 
