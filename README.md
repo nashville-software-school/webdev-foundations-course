@@ -50,8 +50,8 @@ Visit the website Interneting Is Hard (https://internetingishard.com/html-and-cs
 While you are doing this course, it's highly recommended to also watch the videos in the HTML and CSS sections of the Front End Web Development course on Team Treehouse. We've learned that some students find it highly valuable to watch the videos in the following section to supplement their work.
 
 1. [Introduction to HTML and CSS](https://teamtreehouse.com/library/introduction-to-html-and-css)
-1. HTML Basics
-1. CSS Selectors
+1. [HTML Basics](https://teamtreehouse.com/library/html-basics-2)
+1. [CSS Selectors](https://teamtreehouse.com/library/css-selectors)
 
 :hourglass:️ estimate: 14 hours
 
@@ -68,7 +68,7 @@ Start with the Smarter Way to Learn JavaScript book. Practice the basics of writ
 
 ### Step 4
 
-After you've gained some basic proficiency with writing JavaScript, it's time to head on over the Team Treehouse and complete the Beginner JavaScript track. The videos, exercises, and quizzes provide you with the context needed on how to solve simple problems with code.
+After you've gained some basic proficiency with writing JavaScript, it's time to head on over the Team Treehouse and complete the [Beginning JavaScript](https://teamtreehouse.com/tracks/beginning-javascript) track. The videos, exercises, and quizzes provide you with the context needed on how to solve simple problems with code.
 
 :hourglass:️  estimate: 22 hours
 
@@ -76,7 +76,7 @@ After you've gained some basic proficiency with writing JavaScript, it's time to
 
 Time to take a little break from coding and learn about a tool called git, and a web service called Github. These tools allow you to back up your code, and share it with other developers on your team, and all throughout the world.
 
-Complete the Git Basics section of the Front End Developer track on Team Treehouse. You may have to watch this section more than once before you start to understand what it does. Feel free to do that. It's not an easy concept.
+Complete the [Git Basics](https://teamtreehouse.com/library/git-basics) section of the Front End Developer track on Team Treehouse. You may have to watch this section more than once before you start to understand what it does. Feel free to do that. It's not an easy concept.
 
 :hourglass:️ estimate: 4 hours
 
