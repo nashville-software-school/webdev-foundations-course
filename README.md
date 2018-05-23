@@ -18,7 +18,7 @@ This website interactively walks you through the basics of creating web pages wi
 
 An online service that provides video lectures, coding tutorials, quizzes, and challenges for you to hone your beginner software development skills.
 
-### Smarter Way to Learn JavaScript (currently $17.99 on Amazon)
+### Smarter Way to Learn JavaScript (currently $17.99 on [Amazon](https://www.amazon.com/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C/ref=sr_1_1?ie=UTF8&qid=1527079445&sr=8-1&keywords=smarter+way+to+learn+javascript))
 
 This book provides focused examples of the JavaScript language's syntax and provides web-based exercises for you to practice, practice, practice. The exercises can be repetitive, but gaining a solid base in what the basic JavaScript language looks like will definitely prepare you for writing more complex code in class.
 
@@ -39,7 +39,7 @@ This pre-work plan has many different parts to it, so we made you a simple tool 
 
 ### Step 1
 
-On Team Treehouse, work your way through the Digital Literacy track. If you are inexperienced with your computer's capabilities, then this track will provide you with some more advanced knowledge of what your computer is capable of doing. If you've used computers primarily for email, social media, and watching videos, this track is for you.
+On Team Treehouse, work your way through the [Digital Literacy](https://teamtreehouse.com/tracks/digital-literacy) track. If you are inexperienced with your computer's capabilities, then this track will provide you with some more advanced knowledge of what your computer is capable of doing. If you've used computers primarily for email, social media, and watching videos, this track is for you.
 
 :hourglass:️ estimate: 7 hours
 
