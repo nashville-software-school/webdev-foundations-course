@@ -49,7 +49,7 @@ Visit the website Interneting Is Hard (https://internetingishard.com/html-and-cs
 
 While you are doing this course, it's highly recommended to also watch the videos in the HTML and CSS sections of the Front End Web Development course on Team Treehouse. We've learned that some students find it highly valuable to watch the videos in the following section to supplement their work.
 
-1. Introduction to HTML and CSS
+1. [Introduction to HTML and CSS](https://teamtreehouse.com/library/introduction-to-html-and-css)
 1. HTML Basics
 1. CSS Selectors
 
