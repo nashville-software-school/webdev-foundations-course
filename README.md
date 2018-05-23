@@ -1,6 +1,6 @@
 # Welcome to Nashville Software School!
 
-Thank you for choosing us to guide you through your journey to become a software developer. We are eagerly awaiting your arrival for the first day of class on Monday, July 2 at 9:00 a.m.
+Thank you for choosing us to guide you through your journey to become a software developer!
 
 We want to ensure that you are as prepared as possible for the technologies and concepts that your instruction staff will be coaching you through in the first few weeks, so we have prepared a pre-work program. These resources will provide you with the basic skills, terminology, and context for what it will be like at Nashville Software School.
 
