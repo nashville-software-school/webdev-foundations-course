@@ -101,20 +101,20 @@ If you do feel you understand the foundations of what you've done, here's what y
 ### CSS for page layout
 
 CSS can be used to display your content is a wide variety of ways. Most commonly, people use a grid-like system to display content for maximum experience.
-CSS Layout Basics
-Bootstrap 4 Basics
+[CSS Layout Basics](https://teamtreehouse.com/library/css-layout-basics)
+[Bootstrap 4 Basics](https://teamtreehouse.com/library/bootstrap-4-basics-2)
 
 ### jQuery
 
 Learn the basics of the most widely used JavaScript library on the web: jQuery
 
-1. jQuery Basics
+1. [jQuery Basics](https://teamtreehouse.com/library/jquery-basics-2)
 
 ### Learning the Console
 
 Software developers live in the console or terminal. You may have seen this on TV or in the movies, where a developer sits down and all you see on the screen is a black window with some text on it. It's also usually scrolling by quickly for dramatic effect.
 
-1. In the Console Foundations section of the Front End Development track, finish only the part titled __Getting started with the console.__
+1. In the Console Foundations section of the Front End Development track, finish only the part titled [Getting started with the console.](https://teamtreehouse.com/library/introduction-70)
 
 The rest of the content in that section will be helpful later in the course but isn't needed on day 1.
 
@@ -126,9 +126,9 @@ The following content is only for those students who truly feel comfortable with
 
 On Team Treehouse Front End Development track, complete the following sections.
 
-1. Responsive Layouts
-1. CSS Flexbox Layout
-1. AJAX Basics
+1. [Responsive Layouts](https://teamtreehouse.com/library/responsive-layouts)
+1. [CSS Flexbox Layout](https://teamtreehouse.com/library/css-flexbox-layout)
+1. [AJAX Basics](https://teamtreehouse.com/library/ajax-basics)
 1. The remaining content in the Console Foundations section
 
 
