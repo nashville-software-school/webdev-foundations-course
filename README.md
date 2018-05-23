@@ -33,7 +33,7 @@ We want your time to be used as effectively as possible because we truly care ab
 
 Get your subscription to Team Treehouse. As soon as you're signed up, you will get a personal profile page. The profile page is where TeamTreehouse shows which classes you have completed.
 
-Make sure your profile is set to public and then email the URL to jeremiah.vasquez@nashvillesoftwareschool.com.
+Make sure your profile is set to public and then email the URL to jeremiah.vasquez@nashvillesoftwareschool.com and megan.ducharme@nashvillesoftwareschool.com.
 
 This pre-work plan has many different parts to it, so we made you a simple tool to keep track of your progress. **You can access that tool at tracker.nss.team**
 
