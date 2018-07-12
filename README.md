@@ -82,7 +82,7 @@ Complete the [Git Basics](https://teamtreehouse.com/library/git-basics) section 
 
 ### Step 6
 
-Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters 55-59 and 62-68 which are an introduction to the true power of JavaScript for software developers that write applications like Facebook, Pinterest, and Google Maps. 
+Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters 55-59 and 62-71 which are an introduction to the true power of JavaScript for software developers that write applications like Facebook, Pinterest, and Google Maps. 
 
 You will learn the basics of using JavaScript to actually modify the HTML once the browser has used it to build a web page.
 
