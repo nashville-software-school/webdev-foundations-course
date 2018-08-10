@@ -114,7 +114,7 @@ Learn the basics of the most widely used JavaScript library on the web: jQuery
 
 Software developers live in the console or terminal. You may have seen this on TV or in the movies, where a developer sits down and all you see on the screen is a black window with some text on it. It's also usually scrolling by quickly for dramatic effect.
 
-1. In the Console Foundations section of the Front End Development track, finish only the part titled [Getting started with the console.](https://teamtreehouse.com/library/introduction-70)
+1. In the Console Foundations section of the Front End Development track, finish only the part titled [Getting started with the console.](https://teamtreehouse.com/library/console-foundations). It is the first video series of the linked section. 
 
 The rest of the content in that section will be helpful later in the course but isn't needed on day 1.
 
