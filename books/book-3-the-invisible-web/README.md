@@ -8,3 +8,5 @@ In this book, you will learn some fundamental concepts and skills in writing the
 1. Arrays (collections of things)
 1. Iteration (doing the same process _n_ number of times)
 1. Functions (reusable utility code that anyone can use)
+
+Next is [Book 4 - The Terminal](../book-4-terminal-velocity/README.md).
