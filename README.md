@@ -10,9 +10,9 @@ We want to ensure that you are as prepared as possible for the technologies and 
 
 There are three major sources of content for your pre-work
 
-### Interneting Is Hard
+### Web Development 101
 
-This website interactively walks you through the basics of creating web pages with HTML and CSS by using a modern code editor. It's fun and straightforward.
+Go through the Odin Project's [Web Development 101 / Front End Introduction](https://www.theodinproject.com/courses/web-development-101#the-front-end) course. This introduces you to HTML and CSS, and give you some exercises to build some simple web pages.
 
 ### TeamTreehouse.com ($25/month)
 
@@ -82,7 +82,7 @@ Complete the [Git Basics](https://teamtreehouse.com/library/git-basics) section 
 
 ### Step 6
 
-Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters 55-59 and 62-71 which are an introduction to the true power of JavaScript for software developers that write applications like Facebook, Pinterest, and Google Maps. 
+Time to crack open the Smarter Way to Learn JavaScript book again. Read chapters 55-59 and 62-71 which are an introduction to the true power of JavaScript for software developers that write applications like Facebook, Pinterest, and Google Maps.
 
 You will learn the basics of using JavaScript to actually modify the HTML once the browser has used it to build a web page.
 
