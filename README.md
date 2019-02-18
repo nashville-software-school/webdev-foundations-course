@@ -8,7 +8,12 @@ Consider the pre-work as mandatory - not optional. If you don't do the pre-work,
 
 Time to get started!
 
-Visit [Book 1 - Your Computer](./books/book-1-your-computer/README.md) to learn some basic of navigating and using your computer as a software developer would.
+
+
+Visit [Book 1 - Getting Started](./books/book-1-your-computer/README.md) to learn some basics of using your computer and building web pages.
+
+
+
 
 ## Sources
 

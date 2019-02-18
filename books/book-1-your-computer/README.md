@@ -2,25 +2,28 @@
 
 In this book, you will learn fundamental skills for navigating your computer, installing software, and using the keyboard instead of the mouse/trackpad to move around.
 
-## Chapters
+## Being a Student at Nashville Software School
 
-* Chapter 1 - [Learning and Asking Questions](./chapters/HOW_TO_LEARN.md)
+* [Learning and Asking Questions](./chapters/HOW_TO_LEARN.md)
 
-### Windows Users
+## Setting up Windows
 
-* Chapter 2 - [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
-* Chapter 3 - [Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
-* Chapter 4 - [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
+* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
+* [Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
+* [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
 
-### Mac Users
-* Chapter 2 - [Installations for Mac](./chapters/GETTING_STARTED_MAC.md)
-* Chapter 3 - [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.md)
-* Chapter 4 - [Using the Keyboard for Mac](./chapters/APP_TAB_SWITCHING_MAC.md)
+## Setting up OSX
 
-### Everyone
+* [Installations for Mac](./chapters/GETTING_STARTED_MAC.md)
+* [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.md)
+* [Using the Keyboard for Mac](./chapters/APP_TAB_SWITCHING_MAC.md)
 
-* Chapter 5 - [Using Visual Studio Code to write your first web page](./chapters/VSCODE_INTRO.md)
-* Chapter 6 - [Using Google to Find Answers](./chapters/MISC_RESEARCH.md)
+## Odin Project
+
+Visit the [Odin Project Web Development 101](https://www.theodinproject.com/courses/web-development-101)  course, and then follow this sequence through it.
+
+1. [The Basics](https://www.theodinproject.com/courses/web-development-101/lessons/how-this-course-will-work)
+1. Go to the [text editors](https://www.theodinproject.com/courses/web-development-101/lessons/text-editors) section and follow
 
 
 Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.md).
