@@ -10,9 +10,9 @@ We want to ensure that you are as prepared as possible for the technologies and 
 
 There are three major sources of content for your pre-work
 
-### Web Development 101
+### Odin Project
 
-Go through the Odin Project's [Web Development 101 / Front End Introduction](https://www.theodinproject.com/courses/web-development-101#the-front-end) course. This introduces you to HTML and CSS, and give you some exercises to build some simple web pages.
+The Odin Project is a vast collection of resources gathered by senior, experienced developers intended to help beginners take their first steps in learning how to build web applications.
 
 ### TeamTreehouse.com ($25/month)
 
@@ -45,7 +45,7 @@ On Team Treehouse, work your way through the [Digital Literacy](https://teamtree
 
 ### Step 2
 
-Visit the website Interneting Is Hard (https://internetingishard.com/html-and-css/) and follow their guided tour of HTML and CSS. They provide wonderful visuals, explanations, and tutorials where you are writing the code with your own code editor and seeing the results live.
+Visit the website [Web Development 101 / Front End Introduction](https://www.theodinproject.com/courses/web-development-101#the-front-end) course and follow their guided tour of HTML and CSS. They provide wonderful visuals, explanations, and tutorials where you are writing the code with your own code editor and seeing the results live.
 
 While you are doing this course, it's highly recommended to also watch the videos in the HTML and CSS sections of the Front End Web Development course on Team Treehouse. We've learned that some students find it highly valuable to watch the videos in the following section to supplement their work.
 
