@@ -12,26 +12,28 @@ Most of it will be bad.
 
 That's a good thing, because we _want you to make as many mistakes as possible_. The human brain learns by making mistakes and being corrected.
 
-* [Learning and Asking Questions](./chapters/HOW_TO_LEARN.md)
-
-## Setting up Windows
-
-* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
-* [Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
-* [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
+Read the [Learning and Asking Questions](./chapters/HOW_TO_LEARN.md) chapter to hear in more detail about what we expect from our students, and what you experience will be like.
 
 ## Setting up OSX
+
+If you have a Mac, follow the instructions in the following three chapters.
 
 * [Installations for Mac](./chapters/GETTING_STARTED_MAC.md)
 * [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.md)
 * [Using the Keyboard for Mac](./chapters/APP_TAB_SWITCHING_MAC.md)
 
-## Odin Project
+## Setting up Windows
 
-Visit the [Odin Project Web Development 101](https://www.theodinproject.com/courses/web-development-101)  course, and then follow this sequence through it.
+If you have a Windows machine, follow the instructions in the following three chapters.
 
-1. [The Basics](https://www.theodinproject.com/courses/web-development-101/lessons/how-this-course-will-work)
-1. Go to the [text editors](https://www.theodinproject.com/courses/web-development-101/lessons/text-editors) section and follow
+* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
+* [Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
+* [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
 
+
+## Command Line Basics
+
+* Intro, Basic Commands, and Usage
+* Installing `http-server` Using NPM
 
 Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.md).
