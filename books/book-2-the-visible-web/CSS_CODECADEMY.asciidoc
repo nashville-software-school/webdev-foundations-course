@@ -1,4 +1,4 @@
-<link:./HTML_DOG.asciidog[Chapter 2 - Beginner HTML on HTML Dog]> Previous | Next <link:./CSS_DOG.asciidoc[Chapter 4 - Beginner CSS on HTML Dog]>
+<link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]> Previous | Next <link:./CSS_DOG.asciidoc[Chapter 4 - Beginner CSS on HTML Dog]>
 
 = Learn CSS at Codecademy
 
@@ -14,4 +14,4 @@ https://www.codecademy.com/learn/learn-css[Codecademy "Learn CSS" Course]
 
 ''''
 
-<link:./HTML_DOG.asciidog[Chapter 2 - Beginner HTML on HTML Dog]> Previous | Next <link:./CSS_DOG.asciidoc[Chapter 4 - Beginner CSS on HTML Dog]>
+<link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]> Previous | Next <link:./CSS_DOG.asciidoc[Chapter 4 - Beginner CSS on HTML Dog]>
