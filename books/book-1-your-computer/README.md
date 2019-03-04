@@ -37,4 +37,4 @@ If you have a Windows machine, follow the instructions in the following three ch
 * Installing the `tree` command
 * Installing `http-server` Using NPM
 
-Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.md).
+Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.asciidoc).

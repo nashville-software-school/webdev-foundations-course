@@ -70,13 +70,18 @@ You need to make sure that you can run Visual Studio Code from the command line.
     ```sh
     code .
     ```
-1. On the left, you will see the `myfirstpage.html` file. Double-click it to start editing.
+1. Once Code finishes loading, on the left you will see the `myfirstpage.html` file. Double-click it to start editing.
 1. Now you're ready to start on your next assignment. Read the notes below before you begin.
 
 > **Note:** HTML Dog suggests you use Notepad, but you will use Visual Studio Code as your editor.
 
+> **Note:** While you are working, if you close Chrome completely, or just the tab you are working on, you can always open a new tab and use `ctrl+O` on Windows or `command+O` on Mac to open your file again. That's an O, not a zero.
 
+## Second Assignment
 
+> Assignment: Visit and complete the [HTML Beginner Tutorial](https://www.htmldog.com/guides/html/beginner/) course on HTML Dog. They estimate that it will take four hours of your time to read the content, work on exercises, and complete the project(s) they assign you. We want you to start with this course because it has you coding immediately, not doing a lot of reading about theory.
+
+## Additional HTML Exercises
 
 
 
