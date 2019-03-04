@@ -1,4 +1,4 @@
-<link:./HTML_CODECADEMY[Chapter 1 - Codecademy HTML Course]> Previous | Next <link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]>
+<link:./HTML_CODECADEMY.asciidoc[Chapter 1 - Codecademy HTML Course]> Previous | Next <link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]>
 
 = HTML Dog - Beginner HTML Tutorial
 
@@ -89,4 +89,4 @@ Visit and complete the https://www.htmldog.com/guides/html/beginner/[HTML Beginn
 
 ''''
 
-<link:./HTML_CODECADEMY[Chapter 1 - Codecademy HTML Course]> Previous | Next <link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]>
+<link:./HTML_CODECADEMY.asciidoc[Chapter 1 - Codecademy HTML Course]> Previous | Next <link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]>
