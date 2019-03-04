@@ -1,3 +1,5 @@
+<link:./HTML_CODECADEMY[Chapter 1 - Codecademy HTML Course]> Previous | Next <link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]>
+
 = HTML Dog - Beginner HTML Tutorial
 
 Another free web site that contains a large set of tutorials is *HTML Dog*. That is where you are headed next to practice using the HTML elements you first learned at Codecademy.
@@ -87,4 +89,4 @@ Visit and complete the https://www.htmldog.com/guides/html/beginner/[HTML Beginn
 
 ''''
 
-< link:./HTML_CODECADEMY.asciidoc[Chapter 1 - Codecademy HTML] - Previous | Next - link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS] >
+<link:./HTML_CODECADEMY[Chapter 1 - Codecademy HTML Course]> Previous | Next <link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]>

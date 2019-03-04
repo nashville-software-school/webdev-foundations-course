@@ -1,4 +1,4 @@
-< link:../book-1-your-computer/README.md[Book 1 - Getting Started] - Previous | Next - link:../book-3-the-invisible-web/README.md[Book 3 - The Invisible Web] >
+<link:../book-1-your-computer/README.md[Book 1 - Getting Started]> Previous | Next <link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]>
 
 
 == HTML
@@ -12,4 +12,4 @@ Visit and complete the https://www.codecademy.com/learn/learn-html[Introduction 
 
 ''''
 
-< link:../book-1-your-computer/README.md[Book 1 - Getting Started] - Previous | Next - link:../book-3-the-invisible-web/README.md[Chapter 2 - Beginner HTML on HTML Dog] >
+<link:../book-1-your-computer/README.md[Book 1 - Getting Started]> Previous | Next <link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]>
