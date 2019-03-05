@@ -6,8 +6,7 @@ TIP: If you have never installed software before on your Mac, once you download 
 
 image::./images/nHbbyljpog.gif[Installing Chrome]
 
-
-## Google Chrome
+== Google Chrome
 
 [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) is the most popular browser for web developers because of the powerful tools it provides to test code, manipulate documents, and measure performance.
 
