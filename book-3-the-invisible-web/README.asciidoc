@@ -10,7 +10,4 @@ You will learn about the basics of logical programming.
 * Chapter 3 - link:./chapters/JS_LEARNCODE.asciidoc[LearnCode Academy - JavaScript Tutorial for Beginners]
 * Chapter 4 - link:./chapters/JS_FREECODECAMP.asciidoc[Free Code Camp - Javascript Algorithms And Data Structures]
 
-
-
-
-Next is [Book 4 - The Terminal](../book-4-terminal-velocity/README.md).
+Next is link:../book-4-terminal-velocity/README.md[Book 4 - The Terminal]
