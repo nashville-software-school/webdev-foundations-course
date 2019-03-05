@@ -1,6 +1,5 @@
 = HTML Dog - JavaScript Beginner Tutorial
 
-
 == Setup
 
 Time to copy files again. You're going to leave the code your wrote in `index.html` for the CSS course alone, and work on a copy of it for the JavaScript course.
@@ -20,6 +19,11 @@ touch main.js
 code .
 ----
 1. Now that your HTML and JavaScript files are created, you need to link them together using a `<script>` tag in your `index.html`. Open `index.html` and find the closing body tag near the bottom. It will look like this: `</body>`
++
+[source,html]
+----
+<script src="./main.js"></script>
+----
 
 
-https://www.htmldog.com/guides/javascript/beginner/[JavaScript Beginner Tutorial]
+Now visit the HTML Dog https://www.htmldog.com/guides/javascript/beginner/[JavaScript Beginner Tutorial] and use your `main.js` file to write all of your JavaScript as you go through the course.
