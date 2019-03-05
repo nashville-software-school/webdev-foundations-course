@@ -3,8 +3,8 @@
 [.lead]
 In this book, you will learn some fundamental concepts and skills in building HTML and CSS to build the part of software that humans interact with on web sites. As always, you are encouraged to reach out for help if you struggle with any of the steps or code in this book.
 
-* Chapter 1 - link:HTML_CODECADEMY.asciidoc[Codecademy HTML]
-* Chapter 2 - link:HTML_DOG.asciidoc[HTML Dog - Beginner HTML]
-* Chapter 3 - link:CSS_CODECADEMY.asciidoc[Codecademy CSS]
-* Chapter 4 - link:CSS_DOG.asciidoc[HTML Dog - Beginner CSS]
+* Chapter 1 - link:./chapters/HTML_CODECADEMY.asciidoc[Codecademy HTML]
+* Chapter 2 - link:./chapters/HTML_DOG.asciidoc[HTML Dog - Beginner HTML]
+* Chapter 3 - link:./chapters/CSS_CODECADEMY.asciidoc[Codecademy CSS]
+* Chapter 4 - link:./chapters/CSS_DOG.asciidoc[HTML Dog - Beginner CSS]
 

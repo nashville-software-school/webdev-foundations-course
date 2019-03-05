@@ -1,4 +1,4 @@
-<link:../book-1-your-computer/README.md[Book 1 - Getting Started]> Previous | Next <link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]>
+<link:../../book-1-your-computer/README.md[Book 1 - Getting Started]> Previous | Next <link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]>
 
 
 == HTML

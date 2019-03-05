@@ -1,4 +1,4 @@
-<link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]> Previous | Next <link:../books/book-3-the-invisible-web/README.asciidoc[Book 3 - The Invisible Web]>
+<link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]> Previous | Next <link:../../book-3-the-invisible-web/README.asciidoc[Book 3 - The Invisible Web]>
 
 = Adding CSS to your Web Page
 
@@ -31,4 +31,4 @@ Visit the HTML Dog https://www.htmldog.com/guides/css/beginner/[CSS Beginner Tut
 
 ''''
 
-<link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]> Previous | Next <link:../books/book-3-the-invisible-web/README.asciidoc[Book 3 - The Invisible Web]>
+<link:./CSS_CODECADEMY.asciidoc[Chapter 3 - Codecademy CSS Course]> Previous | Next <link:../../book-3-the-invisible-web/README.asciidoc[Book 3 - The Invisible Web]>
