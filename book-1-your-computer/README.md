@@ -26,7 +26,7 @@ If you have a Mac, follow the instructions in the following three chapters.
 
 If you have a Windows machine, follow the instructions in the following three chapters.
 
-* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
+* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.asciidoc)
 * [Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
 * [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
 
