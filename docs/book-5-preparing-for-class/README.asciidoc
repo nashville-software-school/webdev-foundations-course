@@ -1,4 +1,0 @@
-= Getting Ready for NSS
-
-* link:./chapters/LAPTOP.asciidoc[Chapter 1 - Laptop Requirements]
-
