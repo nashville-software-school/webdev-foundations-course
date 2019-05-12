@@ -1,0 +1,13 @@
+= The Invisible Web
+
+[.lead]
+In this book, you will learn some fundamental concepts and skills in writing the logic and operations that power modern websites in the JavaScript language. There are more chapters in this book than in Book 2 because the first three months at Nashville Software School focuses almost exclusively on building applications for the browser with JavaScript.
+
+You will learn about the basics of logical programming.
+
+* Chapter 1 - link:./chapters/JS_CODECADEMY.asciidoc[Codecademy - Introduction To JavaScript]
+* Chapter 2 - link:./chapters/JS_DOG.asciidoc[HTML Dog - JavaScript Beginner Tutorial]
+* Chapter 3 - link:./chapters/JS_LEARNCODE.asciidoc[LearnCode Academy - JavaScript Tutorial for Beginners]
+* Chapter 4 - link:./chapters/JS_FREECODECAMP.asciidoc[Free Code Camp - Javascript Algorithms And Data Structures]
+
+Next is link:../book-4-terminal-velocity/README.md[Book 4 - The Terminal]
