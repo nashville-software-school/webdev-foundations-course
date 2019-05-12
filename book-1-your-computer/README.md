@@ -19,7 +19,7 @@ Read the [Learning and Asking Questions](./chapters/HOW_TO_LEARN.md) chapter to 
 If you have a Mac, follow the instructions in the following three chapters.
 
 * [Installations for Mac](./chapters/GETTING_STARTED_MAC.asciidoc)
-* [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.md)
+* [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.asciidoc)
 * [Using the Keyboard for Mac](./chapters/APP_TAB_SWITCHING_MAC.md)
 
 ## Setting up Windows

@@ -11,3 +11,5 @@ Press the command key, keep it held down, and then tap your spacebar key. A new 
 1. Use the Spotlight Search to launch Visual Studio Code (use "code" to search)
 
 image::./images/7RvmWxzPeg.gif[Using Spotlight]
+
+TIP: There is a free application called https://www.alfredapp.com/[Alfred] that is powerful replacement for Spotlight if you would like to try that out.
