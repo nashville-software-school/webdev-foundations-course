@@ -132,7 +132,6 @@ On Team Treehouse Front End Development track, complete the following sections.
 1. [The remaining content in the Console Foundations section](https://teamtreehouse.com/library/console-foundations)
 
 
-
 ## Content To Skip
 
 The following sections contain content that is valuable to front-end developers but is absolutely not required for day 1 of class. We highly recommend that you keep your Team Treehouse subscription active and complete these sections of the Front End Development track after you have finished your first three months at NSS.
