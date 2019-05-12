@@ -18,15 +18,15 @@ Read the [Learning and Asking Questions](./chapters/HOW_TO_LEARN.md) chapter to 
 
 If you have a Mac, follow the instructions in the following three chapters.
 
-* [Installations for Mac](./chapters/GETTING_STARTED_MAC.asciidoc)
-* [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.asciidoc)
+* [Installations for Mac](./chapters/GETTING_STARTED_MAC.md)
+* [Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.md)
 * [Using the Keyboard for Mac](./chapters/APP_TAB_SWITCHING_MAC.md)
 
 ## Setting up Windows
 
 If you have a Windows machine, follow the instructions in the following three chapters.
 
-* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.asciidoc)
+* [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
 * [Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
 * [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
 
@@ -37,4 +37,4 @@ If you have a Windows machine, follow the instructions in the following three ch
 * Installing the `tree` command
 * Installing `http-server` Using NPM
 
-Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.asciidoc).
+Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.md).
