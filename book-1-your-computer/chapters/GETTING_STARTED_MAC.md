@@ -1,3 +1,7 @@
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| | [Running Applications](./RUNNING_APPS_MAC.md) |
+
 # Getting Started
 
 First, you need to install some tools that you will be using both for the Foundations Course and for your time at Nashville Software School.

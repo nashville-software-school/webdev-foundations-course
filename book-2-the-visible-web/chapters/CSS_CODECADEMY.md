@@ -1,6 +1,8 @@
-<link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]> Previous | Next <link:./CSS_DOG.asciidoc[Chapter 4 - Beginner CSS on HTML Dog]>
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Beginner HTML on HTML Dog](./HTML_DOG.md) | [Beginner CSS on HTML Dog](./CSS_DOG.md) |
 
-= Learn CSS at Codecademy
+# Learn CSS at Codecademy
 
 HTML was never intended to contain information about the formatting or style of a web document. However, in version 3.2 of HTML, support was added for specifying fonts, colors, borders, etc. Then, every marketing person in the world started demanding these new features on their websites.
 
@@ -8,10 +10,6 @@ It was a nightmare for web developers. Development of large websites, where font
 
 To solve this problem, the World Wide Web Consortium (W3C) created CSS. It allows software developers to write the rules for the layout and style of a web page in a separate document, and then link (import) those styles into the HTML document.
 
-== Assignment
+## Assignment
 
-https://www.codecademy.com/learn/learn-css[Codecademy "Learn CSS" Course]
-
-''''
-
-<link:./HTML_DOG.asciidoc[Chapter 2 - Beginner HTML on HTML Dog]> Previous | Next <link:./CSS_DOG.asciidoc[Chapter 4 - Beginner CSS on HTML Dog]>
+[Codecademy "Learn CSS" Course](https://www.codecademy.com/learn/learn-css)

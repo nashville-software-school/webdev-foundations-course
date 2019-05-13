@@ -1,6 +1,6 @@
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| [Chapter 1 - Codecademy HTML Course](./HTML_CODECADEMY.md)      | [Chapter 3 - Codecademy CSS Course](./CSS_CODECADEMY.md) |
+| [Chapter 1 - Codecademy HTML Course](./HTML_CODECADEMY.md) | [Chapter 3 - Codecademy CSS Course](./CSS_CODECADEMY.md) |
 
 <br/>
 

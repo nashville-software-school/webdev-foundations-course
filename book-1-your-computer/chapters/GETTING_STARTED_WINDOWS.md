@@ -1,3 +1,8 @@
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| | [Running Applications](./RUNNING_APPS_WINDOWS.md) |
+
+
 # Getting Started
 
 First, you need to install some tools that you will be using both for the Foundations Course and for your time at Nashville Software School.
@@ -25,3 +30,13 @@ echo 'alias gs="git status"' > ~/.bashrc
 ### Visual Studio Code
 
 Visit the [Visual Studio Code](https://code.visualstudio.com) website to download and install the code editor. This is the editor you will be using for the next 6 months.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| | [Running Applications](./RUNNING_APPS_WINDOWS.md) |

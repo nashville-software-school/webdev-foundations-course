@@ -1,3 +1,7 @@
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Installations](./GETTING_STARTED_MAC.md) | [Using the Keyboard](./APP_TAB_SWITCHING_MAC.md) |
+
 # Ditching the Dock Bar
 
 As a Mac user, you most likely are used to using your mouse to navigate the operating system. Software developers use their keyboard for as many things as possible to accelerate their workflow and save time. This takes time, patient, and practice. In this chapter, you are going to learn how to start applications with your keyboard instead of clicking on an application on your desktop or in the Dock Bar at the bottom of the screen.
@@ -13,3 +17,13 @@ Press the command key, keep it held down, and then tap your spacebar key. A new 
 ![Using Spotlight](./images/7RvmWxzPeg.gif)
 
 > **TIP:** There is a free application called [Alfred](https://www.alfredapp.com/) that is powerful replacement for Spotlight if you would like to try that out.
+
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Installations](./GETTING_STARTED_MAC.md) | [Using the Keyboard](./APP_TAB_SWITCHING_MAC.md) |

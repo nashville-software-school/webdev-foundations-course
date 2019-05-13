@@ -1,3 +1,7 @@
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Installations](./GETTING_STARTED_WINDOWS.md) | [Using the Keyboard](./APP_TAB_SWITCHING_WINDOWS.md) |
+
 # Starting Applications on Windows
 
 ## Clicking Start
@@ -23,3 +27,13 @@ If you have been a Mac user in the past, and Windows is new to you, and you want
 WARNING: The steps for installing Hain are very technical, so if you visit the docs and are overwhelmed, wait until you start the course and the instruction team can help.
 
 ![Haim](./images/haim_animation.gif)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Installations](./GETTING_STARTED_WINDOWS.md) | [Using the Keyboard](./APP_TAB_SWITCHING_WINDOWS.md) |

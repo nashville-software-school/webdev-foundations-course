@@ -1,3 +1,7 @@
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Starting Applications](./RUNNING_APPS_MAC.md) | [Codecademy HTML](../book-2-the-visible-web/chapters/HTML_CODECADEMY.md) |
+
 # Common Keyboard Shortcuts in OSX
 
 To continue your path towards working on your computer like a software developer, there are other keyboard shortcuts that you need to become familiar with. Watch the videos below to learn how to move between tabs in a browser, switch between different programs, and other tasks without using your mouse.
