@@ -2,8 +2,12 @@
 | ------------- |:-------------|
 | [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../../book-3-the-invisible-web/README.md) |
 
+<br/>
+<br/>
 
 # Adding CSS to your Web Page
+
+> **IMPORTANT:** For the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users. For Mac users, it is the Terminal application.
 
 Back to working locally, on your machine, to apply CSS styles to the file you created in the HTML chapter. You are going to practice some more bash commands so you can copy a file from one directory to another. You are going to leave the `myfirstpage.html` that you created previously untouched. You are going to create a copy of it and work on that copy.
 

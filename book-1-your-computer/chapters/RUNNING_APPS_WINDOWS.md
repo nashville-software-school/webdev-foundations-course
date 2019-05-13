@@ -20,6 +20,15 @@ Sometimes the application you want to run doesn't show in the Start menu. That's
 
 ![Finding your App](./images/windows_finding_app.gif)
 
+## Trying it Out
+
+> **IMPORTANT:** For the remainder of the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users.
+
+1. Use the Search to launch Google Chrome (use "chrome" to search)
+1. Use the Search to launch Visual Studio Code (use "code" to search)
+1. Use the Search to launch your terminal (use "bash" to search and open Git Bash)
+
+
 ## Spotlight for Windows
 
 If you have been a Mac user in the past, and Windows is new to you, and you want to use something like Spotlight on Windows, you can install an application named [Hain](https://github.com/hainproject/hain) that provides that functionality.

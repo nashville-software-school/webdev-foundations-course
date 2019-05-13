@@ -9,6 +9,8 @@
 
 ## Setup
 
+> **IMPORTANT:** For the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users. For Mac users, it is the Terminal application.
+
 Time to copy files again. You're going to leave the code your wrote in `index.html` for the CSS course alone, and work on a copy of it for the JavaScript course.
 
 1. In your terminal, move to your `javascript` directory, and copy the `index.html` file into it. Again, make sure you put that dot at the end so that it is copied into the current directory.

@@ -13,6 +13,7 @@ Press the command key, keep it held down, and then tap your spacebar key. A new 
 
 1. Use the Spotlight Search to launch Google Chrome (use "chrome" to search)
 1. Use the Spotlight Search to launch Visual Studio Code (use "code" to search)
+1. Use the Spotlight Search to launch terminal (use "terminal" to search)
 
 ![Using Spotlight](./images/7RvmWxzPeg.gif)
 

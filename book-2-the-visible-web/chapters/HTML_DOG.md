@@ -27,6 +27,8 @@ You need to make sure that you can run Visual Studio Code from the command line.
 
 ### Directories and Files
 
+> **IMPORTANT:** For the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users. For Mac users, it is the Terminal application.
+
 1. If you did not install everything that was listed in the previous book, please go back and do that. You will need Visual Studio Code installed as your code editor.
 1. Open your terminal and change your location to your home directory.
     ```sh
