@@ -1,6 +1,6 @@
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../book-3-the-invisible-web/README.md) |
+| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../../book-3-the-invisible-web/README.md) |
 
 
 # Adding CSS to your Web Page
@@ -13,24 +13,22 @@ Open your terminal, change your location to the `css` directory you created prev
 
 Copy your file to the `css` directory. The dot in bash means "current directory".
 
-[source,bash]
-----
+```sh
 cd ~/workspace/foundations/css
 cp ../html/myfirstpage.html .
-----
+```
 
 Now that you have copied the file into this directory, you are going to rename the file to `index.html`. This is the default document that gets shown to users who visit any web site.
 
-[source,bash]
-----
+```sh
 mv myfirstpage.html index.html
-----
+```
 
 Now launch Visual Studio Code in this directory with **`code .`**
 
 ## Assignment
 
-Visit the HTML Dog https://www.htmldog.com/guides/css/beginner/[CSS Beginner Tutorial], and learn how to add styles and layout to your `index.html` web page that you created a couple chapters ago. Your knowledge of selectors, colors, spacing, borders, and text that you learned in the Codecademy course will be reinforced in this assignment.
+Visit the HTML Dog [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/beginner/), and learn how to add styles and layout to your `index.html` web page that you created a couple chapters ago. Your knowledge of selectors, colors, spacing, borders, and text that you learned in the Codecademy course will be reinforced in this assignment.
 
 <br/>
 <br/>
@@ -40,4 +38,4 @@ Visit the HTML Dog https://www.htmldog.com/guides/css/beginner/[CSS Beginner Tut
 
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../book-3-the-invisible-web/README.md) |
+| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../../book-3-the-invisible-web/README.md) |

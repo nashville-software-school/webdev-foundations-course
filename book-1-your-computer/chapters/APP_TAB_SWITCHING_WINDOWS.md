@@ -1,6 +1,6 @@
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| [Starting Applications](./RUNNING_APPS_WINDOWS.md) | [Codecademy HTML](../book-2-the-visible-web/chapters/HTML_CODECADEMY.md) |
+| [Starting Applications](./RUNNING_APPS_WINDOWS.md) | [Codecademy HTML](../../book-2-the-visible-web/chapters/HTML_CODECADEMY.md) |
 
 # Common Keyboard Shortcuts in Windows
 
