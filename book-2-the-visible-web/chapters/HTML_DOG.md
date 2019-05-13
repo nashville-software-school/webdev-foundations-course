@@ -83,4 +83,4 @@ Visit and complete the [HTML Beginner Tutorial](https://www.htmldog.com/guides/h
 
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| [Chapter 1 - Codecademy HTML Course](./HTML_CODECADEMY.md)      | [Chapter 3 - Codecademy CSS Course](./CSS_CODECADEMY.md) |
+| [Codecademy HTML Course](./HTML_CODECADEMY.md) | [Codecademy CSS Course](./CSS_CODECADEMY.md) |
