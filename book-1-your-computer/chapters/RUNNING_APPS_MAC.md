@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Installations](./GETTING_STARTED_MAC.md) | [Using the Keyboard](./APP_TAB_SWITCHING_MAC.md) |
 
 # Ditching the Dock Bar
@@ -36,5 +36,5 @@ echo 'alias gs="git status"' > ~/.bashrc
  <br/>
 
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Installations](./GETTING_STARTED_MAC.md) | [Using the Keyboard](./APP_TAB_SWITCHING_MAC.md) |

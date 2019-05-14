@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Codecademy - Introduction To JavaScript](./JS_CODECADEMY.md) | [LearnCode Academy - JavaScript Tutorial for Beginners](./JS_LEARNCODE.md) |
 
 <br/>
@@ -38,5 +38,5 @@ Now visit the HTML Dog [JavaScript Beginner Tutorial](https://www.htmldog.com/gu
 <br/>
 
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Codecademy - Introduction To JavaScript](./JS_CODECADEMY.md) | [LearnCode Academy - JavaScript Tutorial for Beginners](./JS_LEARNCODE.md) |

@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Book 2 - The Visible Web](../../book-2-the-visible-web/README.md) | [HTML Dog - JavaScript Beginner Tutorial](JS_DOG.md) |
 
 <br/>

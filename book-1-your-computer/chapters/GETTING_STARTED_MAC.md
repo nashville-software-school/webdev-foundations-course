@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_MAC.md) |
 
 # Getting Started
@@ -31,5 +31,5 @@ This application will allow you to use certain combinations of keys on your keyb
 <br/>
 
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_MAC.md) |

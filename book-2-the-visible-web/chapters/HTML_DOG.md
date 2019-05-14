@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Codecademy HTML Course](./HTML_CODECADEMY.md) | [Codecademy CSS Course](./CSS_CODECADEMY.md) |
 
 <br/>
@@ -84,5 +84,5 @@ Visit and complete the [HTML Beginner Tutorial](https://www.htmldog.com/guides/h
 <br/>
 
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Codecademy HTML Course](./HTML_CODECADEMY.md) | [Codecademy CSS Course](./CSS_CODECADEMY.md) |

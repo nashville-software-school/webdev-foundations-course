@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [HTML Dog - JavaScript Beginner Tutorial](./JS_DOG.md) | [Free Code Camp - Javascript Algorithms And Data Structures](./JS_FREECODECAMP.md) |
 
 <br/>

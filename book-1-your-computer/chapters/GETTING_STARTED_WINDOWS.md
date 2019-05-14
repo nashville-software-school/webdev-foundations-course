@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_WINDOWS.md) |
 
 
@@ -36,5 +36,5 @@ Visual Studio Code is the editor we will all be working on to start the course. 
 <br/>
 
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_WINDOWS.md) |

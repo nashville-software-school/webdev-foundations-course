@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Getting Started](./../book-1-your-computer/README.md.md) | [HTML Dog - Beginner HTML](./HTML_DOG.md) |
 
 # HTML

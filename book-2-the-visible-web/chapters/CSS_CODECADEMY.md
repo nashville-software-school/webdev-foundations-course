@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Beginner HTML on HTML Dog](./HTML_DOG.md) | [Beginner CSS on HTML Dog](./CSS_DOG.md) |
 
 # Learn CSS at Codecademy

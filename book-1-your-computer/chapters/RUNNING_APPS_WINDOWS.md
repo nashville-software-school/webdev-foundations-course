@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Installations](./GETTING_STARTED_WINDOWS.md) | [Using the Keyboard](./APP_TAB_SWITCHING_WINDOWS.md) |
 
 # Starting Applications on Windows
@@ -44,5 +44,5 @@ WARNING: The steps for installing Hain are very technical, so if you visit the d
 <br/>
 
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [Installations](./GETTING_STARTED_WINDOWS.md) | [Using the Keyboard](./APP_TAB_SWITCHING_WINDOWS.md) |

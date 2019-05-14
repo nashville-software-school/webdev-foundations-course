@@ -1,5 +1,5 @@
 | Previous Chapter | Next Chapter |
-| ------------- |:-------------|
+| :------------- |:-------------|
 | [LearnCode Academy - JavaScript Tutorial for Beginners](./JS_LEARNCODE.md) | [Book 4 - The Terminal](../../book-4-terminal-velocity/README.md) |
 
 # FreeCodeCamp JavaScript Course
