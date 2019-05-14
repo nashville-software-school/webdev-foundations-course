@@ -1,6 +1,6 @@
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| | [Running Applications](./RUNNING_APPS_WINDOWS.md) |
+| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_WINDOWS.md) |
 
 
 # Getting Started
@@ -15,7 +15,7 @@ Visit the [Git Bash](http://www.git-scm.com/downloads) download page click the "
 
 ### Git Bash Initialization File
 
-Once Git Bash is installed, run it. Once it is running, type in the following command. You will learn more about this command later.
+Once Git Bash is installed, run the application. Once it is running, type in the following command. You will learn more about this command later. We know, it looks alien and scary, but it's not doing anything dangerous.  It's just creating a configuration file for your terminal.
 
 ```sh
 echo 'alias gs="git status"' > ~/.bashrc
@@ -27,7 +27,7 @@ echo 'alias gs="git status"' > ~/.bashrc
 
 ### Visual Studio Code
 
-Visit the [Visual Studio Code](https://code.visualstudio.com) website to download and install the code editor. This is the editor you will be using for the next 6 months.
+Visual Studio Code is the editor we will all be working on to start the course. To install it, visit the [Visual Studio Code website](https://code.visualstudio.com) and click the big green button that says **Download for Windows**.
 
 <br/>
 <br/>
@@ -37,4 +37,4 @@ Visit the [Visual Studio Code](https://code.visualstudio.com) website to downloa
 
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| | [Running Applications](./RUNNING_APPS_WINDOWS.md) |
+| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_WINDOWS.md) |

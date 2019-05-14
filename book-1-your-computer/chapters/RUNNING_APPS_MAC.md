@@ -13,11 +13,21 @@ Press the command key, keep it held down, and then tap your spacebar key. A new 
 
 1. Use the Spotlight Search to launch Google Chrome (use "chrome" to search)
 1. Use the Spotlight Search to launch Visual Studio Code (use "code" to search)
-1. Use the Spotlight Search to launch terminal (use "terminal" to search)
 
 ![Using Spotlight](./images/7RvmWxzPeg.gif)
 
-> **TIP:** There is a free application called [Alfred](https://www.alfredapp.com/) that is powerful replacement for Spotlight if you would like to try that out.
+> **TIP:** There is a free application called [Alfred](https://www.alfredapp.com/) that is powerful replacement for Spotlight if you would like to try that out. If you're not up for trying something new just yet, that's fine.
+
+### Terminal Initialization File
+
+Use the Spotlight Search to launch terminal (use "terminal" to search)
+
+Once it is running, type in the following command. You will learn more about this command later. We know, it looks alien and scary, but it's not doing anything dangerous. It's just creating a configuration file for your terminal.
+
+```sh
+echo 'alias gs="git status"' > ~/.bashrc
+```
+
 
  <br/>
  <br/>

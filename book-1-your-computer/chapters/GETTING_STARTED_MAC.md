@@ -1,12 +1,12 @@
 | Previous Chapter | Next Chapter |
 | ------------- |:-------------|
-| | [Running Applications](./RUNNING_APPS_MAC.md) |
+| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_MAC.md) |
 
 # Getting Started
 
 First, you need to install some tools that you will be using both for the Foundations Course and for your time at Nashville Software School.
 
-> **TIP:** If you have never installed software before on your Mac, once you download the installer and run it, you are usually presented with a window that asks you to click and drag the program into the Applications folder. You need to do that to ensure that it is installed correctly.
+If you have never installed software before on your Mac, once you download the installer and run it, you are usually presented with a window that asks you to click and drag the program into the Applications folder. You need to do that to ensure that it is installed correctly.
 
 ![Installing Chrome](./images/nHbbyljpog.gif)
 
@@ -23,3 +23,13 @@ Visual Studio Code is the editor we will all be working on to start the course. 
 This application will allow you to use certain combinations of keys on your keyboard to move and resize applications while you are developing.
 
 [Download and install Spectacle](https://www.spectacleapp.com) and after it is installed, click on the link labeled _**keyboard shortcuts**_ on the web site to try it out.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+| Previous Chapter | Next Chapter |
+| ------------- |:-------------|
+| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_MAC.md) |
