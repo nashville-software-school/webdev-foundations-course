@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>The Terminal | Nashville Software School: Foundations Course</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="The Terminal" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/book-4-terminal-velocity/" />
+<meta property="og:url" content="http://localhost:4000/book-4-terminal-velocity/" />
+<meta property="og:site_name" content="Nashville Software School: Foundations Course" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/book-4-terminal-velocity/","headline":"The Terminal","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=ae68288b1872a57bddd0087552d81129c7f35c9e">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name"><a style='color: white;' href='https://nashville-software-school.github.io/prework/'>Nashville Software School: Foundations Course</a></h1>
+      <h2 class="project-tagline"></h2>
+      
+        <a href="https://github.com/nashville-software-school/prework" class="btn">View on GitHub</a>
+      
+      
+    </section>
+
+    <section class="main-content">
+      <h1 id="the-terminal">The Terminal</h1>
+
+<blockquote>
+  <p><strong>IMPORTANT:</strong> For the Foundations Course, when you see the words “terminal” or “command line”, it means Git Bash for Windows users. For Mac users, it is the Terminal application.</p>
+</blockquote>
+
+<p>In this book, you will learn how to use the terminal (also called the command line) to navigate your computer, execute helpful programs, and copy &amp; move files and directories.</p>
+
+<h2 id="your-home-directory">Your Home Directory</h2>
+
+<p>Remember that you can always travel to your home directory by just typing in <code class="highlighter-rouge">cd</code> and pressing enter. You also use the <code class="highlighter-rouge">~</code> character to represent your home directory. For example, if you want to get to your workspace directory quickly, you can enter in the following command.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/workspace
+</code></pre></div></div>
+
+<h2 id="creating-directories">Creating Directories</h2>
+
+<p><code class="highlighter-rouge">mkdir</code> is the command for creating directories. Just <code class="highlighter-rouge">cd</code> to the directory in which you want to create a sub-directory and use that command. For example, if you want to create a <code class="highlighter-rouge">personal</code> directory in your workspace, you can enter in the following commands.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/workspace
+mkdir personal
+</code></pre></div></div>
+
+<h2 id="creating-files">Creating Files</h2>
+
+<p>The <code class="highlighter-rouge">touch</code> command is for creating files. For example, if you want to create an HTML file and a CSS file inside your <code class="highlighter-rouge">~/workspace/personal</code> directory, you can use the following commands.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/workspace/personal
+touch index.html
+touch personal.css
+</code></pre></div></div>
+
+<h2 id="project-directory-structure">Project Directory Structure</h2>
+
+<p>There are some standard directories that web developers creating when starting a project. Once the main directory is created, an HTML file is created in it. Then two sub-directories are created.</p>
+
+<ol>
+  <li><code class="highlighter-rouge">css</code> to contain all the CSS files.</li>
+  <li><code class="highlighter-rouge">scripts</code> to contain all the JavaScript files.</li>
+</ol>
+
+<h2 id="moving-files-in-the-terminal">Moving files in the terminal</h2>
+
+<p>The <code class="highlighter-rouge">mv</code> command moves files from one directory to another. For example, if you created the <code class="highlighter-rouge">personal.css</code> file in your <code class="highlighter-rouge">personal</code> directory, but want to move it into the <code class="highlighter-rouge">css</code> sub-directory, you would use the following commands. The pattern is <code class="highlighter-rouge">mv [what to move] [where to move it]</code>.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/workspace/personal
+mv personal.css css
+</code></pre></div></div>
+
+<h2 id="bashrc-intialization-file"><code class="highlighter-rouge">.bashrc</code> intialization file</h2>
+
+<p>Earlier in the Foundations Course, we had you enter in a command in your terminal, but at the time you had no idea what was going on. Every time you start a new terminal application, your system looks for a file named <code class="highlighter-rouge">.bashrc</code> and runs all of the instructions inside of it.</p>
+
+<p>Software developers use this file to set up help shortcuts and functions to help accelerate their workflow. Here’s an example of something that a developer might do.</p>
+
+<h2 id="your-first-bash-alias">Your First Bash Alias</h2>
+
+<p>In order to delete a directory, you need to precede the directory name with <code class="highlighter-rouge">rm -rf</code>. For example, if you want to delete the <code class="highlighter-rouge">personal</code> directory in your workspace, you would type in the following command.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/workspace
+rm <span class="nt">-rf</span> personal
+</code></pre></div></div>
+
+<p>That may not seem like a big deal, but over time, typing in <code class="highlighter-rouge">rm -rf</code> is just awkward enough to make a developer want to type in something else in its stead. To do this you would create something called an alias. Let’s alias the work <code class="highlighter-rouge">nuke</code> to mean <code class="highlighter-rouge">rm -rf</code>.</p>
+
+<p>Type in the following command.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">echo</span> <span class="s1">'alias nuke="rm -rf"'</span> <span class="o">&gt;&gt;</span> ~/.bashrc
+</code></pre></div></div>
+
+<p>This appends some text to the end of the .bashrc file. You can see it if you type in <code class="highlighter-rouge">cat ~/.bashrc</code>. The <code class="highlighter-rouge">cat</code> command outputs the contents of a file. After typing that your should see the following output.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">alias </span><span class="nv">gs</span><span class="o">=</span><span class="s2">"git status"</span>
+<span class="nb">alias </span><span class="nv">nuke</span><span class="o">=</span><span class="s2">"rm -rf"</span>
+</code></pre></div></div>
+
+<p>Now type in the following command to execute your initialization file and gain access to your new alias.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">source</span> ~/.bashrc
+</code></pre></div></div>
+
+<p>Next, create a directory and then use your alias to delete it.</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> ~/workspace
+mkdir deleteme
+nuke deleteme
+</code></pre></div></div>
+
+<h2 id="learn-enough-command-line-to-be-dangerous">Learn enough command line to be dangerous</h2>
+
+<p>If you want to gain more in-depth knowledge about how to use the terminal on your computer, you can read the <a href="https://www.learnenough.com/command-line-tutorial/basics">Learn Enough Command Line to Be Dangerous</a> online book from Michael Hartl.</p>
+
+<blockquote>
+  <p><strong>Note:</strong> For Windows users, some of the commands in the book may not work because the Git Bash program is not a true Unix terminal clone. All of the commands will work in the Mac Terminal application.</p>
+</blockquote>
+
+
+
+      <footer class="site-footer">
+        
+          <span class="site-footer-owner"><a href="https://github.com/nashville-software-school/prework">prework</a> is maintained by <a href="https://github.com/nashville-software-school">nashville-software-school</a>.</span>
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
