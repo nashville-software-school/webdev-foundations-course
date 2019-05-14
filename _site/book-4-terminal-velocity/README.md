@@ -1,3 +1,15 @@
+<nav>
+  <ul class="nav--books">
+    <li class="left">
+        <span>Previous:</span> <a href="../book-3-the-invisible-web">Book 3 - The Invisible Web</a>
+    </li>
+    <li class="right">
+        <span>Next:</span> Attend NSS
+    </li>
+  </ul>
+</nav>
+
+
 # Book 4 - The Terminal
 
 > **IMPORTANT:** For the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users. For Mac users, it is the Terminal application.

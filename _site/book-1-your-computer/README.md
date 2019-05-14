@@ -1,3 +1,15 @@
+<nav>
+  <ul class="nav--books">
+    <li class="left">
+        <span>Previous:</span> None
+    </li>
+    <li class="right">
+        <span>Next:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>
+    </li>
+  </ul>
+</nav>
+
+
 # Book 1 - Your Computer
 
 In this book, you will learn fundamental skills for navigating your computer, installing software, and using the keyboard instead of the mouse/trackpad to move around.
@@ -17,6 +29,3 @@ If you have a Windows machine, follow the instructions in the following three ch
 * <div class="listitem__header">Part 1</div> [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
 * <div class="listitem__header">Part 2</div>[Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
 * <div class="listitem__header">Part 3</div>[Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
-
-
-Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.md)
