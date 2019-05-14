@@ -1,12 +1,12 @@
 <nav>
-  <ul class="nav--books">
-    <li class="left">
-        <span>Previous:</span> <a href="../book-1-your-computer">Book 1 - Getting Started</a>
-    </li>
-    <li class="right">
-        <span>Next:</span> <a href="../book-3-the-invisible-web">Book 3 - The Invisible Web</a>
-    </li>
-  </ul>
+    <ul class="nav--books">
+        <li class="left">
+            <span>Previous:</span> <a href="../book-1-your-computer">Book 1 - Getting Started</a>
+        </li>
+        <li class="right">
+            <span>Next:</span> <a href="../book-3-the-invisible-web">Book 3 - The Invisible Web</a>
+        </li>
+    </ul>
 </nav>
 
 # Book 2 - The Visible Web

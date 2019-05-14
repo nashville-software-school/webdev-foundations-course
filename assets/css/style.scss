@@ -26,6 +26,10 @@ ul {
 
     &.single-item {
         justify-content: space-around;
+
+        li {
+            flex-basis: 40%;
+        }
     }
 
     &.nav--books {
@@ -55,7 +59,7 @@ ul {
     li {
         padding: 10px 20px;
         border: 1px solid royalblue;
-        flex-basis: 31%;
+        flex-basis: 27%;
 
         :hover {
             cursor: pointer;

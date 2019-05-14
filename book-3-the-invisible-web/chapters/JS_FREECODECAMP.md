@@ -1,8 +1,6 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [LearnCode Academy - JavaScript Tutorial for Beginners](./JS_LEARNCODE.md) | [Book 4 - The Terminal](../../book-4-terminal-velocity/README.md) |
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 3 - The Invisible Web](../README.md) > freeCodeCamp - JavaScript
 
-# FreeCodeCamp JavaScript Course
+# freeCodeCamp JavaScript Course
 
 Your last JavaScript assignment for the *Foundations Course* is the [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) course at freeCodeCamp.
 

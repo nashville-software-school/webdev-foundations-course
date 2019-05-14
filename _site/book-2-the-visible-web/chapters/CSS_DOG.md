@@ -1,9 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../../book-3-the-invisible-web/README.md) |
-
-<br/>
-<br/>
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 2 - The Visible Web](../README.md) > HTML Dog CSS Course
 
 # Adding CSS to your Web Page
 

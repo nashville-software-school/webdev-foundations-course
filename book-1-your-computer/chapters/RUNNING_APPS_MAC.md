@@ -1,6 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Installations](./GETTING_STARTED_MAC.md) | [Using the Keyboard](./APP_TAB_SWITCHING_MAC.md) |
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Running Applications on a Mac
 
 # Ditching the Dock Bar
 
@@ -27,14 +25,3 @@ Once it is running, type in the following command. You will learn more about thi
 ```sh
 echo 'alias gs="git status"' >> ~/.bashrc
 ```
-
-
- <br/>
- <br/>
- <br/>
- <br/>
- <br/>
-
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Installations](./GETTING_STARTED_MAC.md) | [Using the Keyboard](./APP_TAB_SWITCHING_MAC.md) |

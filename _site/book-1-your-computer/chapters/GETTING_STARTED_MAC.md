@@ -1,6 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_MAC.md) |
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Mac Installations
 
 # Getting Started
 
@@ -23,13 +21,3 @@ Visual Studio Code is the editor we will all be working on to start the course. 
 This application will allow you to use certain combinations of keys on your keyboard to move and resize applications while you are developing.
 
 [Download and install Spectacle](https://www.spectacleapp.com) and after it is installed, click on the link labeled _**keyboard shortcuts**_ on the web site to try it out.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_MAC.md) |

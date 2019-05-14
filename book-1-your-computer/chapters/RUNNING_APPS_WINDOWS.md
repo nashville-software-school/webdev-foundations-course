@@ -1,6 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Installations](./GETTING_STARTED_WINDOWS.md) | [Using the Keyboard](./APP_TAB_SWITCHING_WINDOWS.md) |
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Running Applications on Windows
 
 # Starting Applications on Windows
 
@@ -29,20 +27,10 @@ Sometimes the application you want to run doesn't show in the Start menu. That's
 1. Use the Search to launch your terminal (use "bash" to search and open Git Bash)
 
 
-## Spotlight for Windows
+## Advanced: Spotlight for Windows
 
 If you have been a Mac user in the past, and Windows is new to you, and you want to use something like Spotlight on Windows, you can install an application named [Hain](https://github.com/hainproject/hain) that provides that functionality.
 
 WARNING: The steps for installing Hain are very technical, so if you visit the docs and are overwhelmed, wait until you start the course and the instruction team can help.
 
 ![Haim](./images/haim_animation.gif)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Installations](./GETTING_STARTED_WINDOWS.md) | [Using the Keyboard](./APP_TAB_SWITCHING_WINDOWS.md) |

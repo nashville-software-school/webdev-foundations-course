@@ -325,11 +325,12 @@ a:hover { text-decoration: underline; }
 
 ul { display: flex; flex-direction: row; justify-content: space-between; list-style-type: none; }
 ul.single-item { justify-content: space-around; }
+ul.single-item li { flex-basis: 40%; }
 ul.nav--books { font-size: smaller; }
 ul.nav--books li { padding: 5px 10px; border: 1px solid #ABD1C8; flex-basis: 31%; }
 ul.nav--books :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
 ul :hover { cursor: pointer; animation: jiggle 0.2s; transition: .4s all ease; z-index: 400; box-shadow: 5px 15px 20px rgba(72, 62, 23, 0.4); }
-ul li { padding: 10px 20px; border: 1px solid royalblue; flex-basis: 31%; }
+ul li { padding: 10px 20px; border: 1px solid royalblue; flex-basis: 27%; }
 ul li :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
 ul li .listitem__header { font-size: medium; font-weight: 700; }
 

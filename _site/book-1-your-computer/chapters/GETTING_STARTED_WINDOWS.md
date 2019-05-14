@@ -1,7 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_WINDOWS.md) |
-
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Windows Installations
 
 # Getting Started
 
@@ -28,13 +25,3 @@ echo 'alias gs="git status"' >> ~/.bashrc
 ### Visual Studio Code
 
 Visual Studio Code is the editor we will all be working on to start the course. To install it, visit the [Visual Studio Code website](https://code.visualstudio.com) and click the big green button that says **Download for Windows**.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Book 1 Overview](../README.md) | [Running Applications](./RUNNING_APPS_WINDOWS.md) |

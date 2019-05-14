@@ -23,7 +23,7 @@ That's a good thing, because we _want you to make as many mistakes as possible_.
 <ul class="single-item">
     <li>
         <p class="listitem__header">Foreword</p>
-        <a href="./book-1-your-computer/chapters/HOW_TO_LEARN.html">Learning and Asking Questions</a>
+        <a href="./book-1-your-computer/chapters/HOW_TO_LEARN.html">Student Expectations</a>
     </li>
 </ul>
 

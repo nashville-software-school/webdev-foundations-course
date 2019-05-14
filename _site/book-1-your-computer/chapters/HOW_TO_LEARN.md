@@ -1,3 +1,5 @@
+[Welcome](https://nashville-software-school.github.io/prework/) > Student Expectations
+
 # Learning to Learn
 
 The primary skill you gain at Nashville Software School is not a mastery of writing code. Far from it. You will spend six months learning the very basics of it. The largest benefit of coming to Nashville Software School is to learn how to think like a software developer, and learn like a software developer.

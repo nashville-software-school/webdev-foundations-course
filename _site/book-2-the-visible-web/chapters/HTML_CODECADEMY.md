@@ -1,8 +1,6 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Getting Started](./../book-1-your-computer/README.md.md) | [HTML Dog - Beginner HTML](./HTML_DOG.md) |
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 2 - The Visible Web](../README.md) > Codecademy HTML
 
-# HTML
+# Codecademy HTML Course
 
 Your first step is to learn how to work with the language that software developers use to structure the content within web pages - HTML.
 

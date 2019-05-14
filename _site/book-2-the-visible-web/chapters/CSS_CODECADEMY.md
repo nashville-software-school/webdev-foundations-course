@@ -1,6 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Beginner HTML on HTML Dog](./HTML_DOG.md) | [Beginner CSS on HTML Dog](./CSS_DOG.md) |
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 2 - The Visible Web](../README.md) > Codecademy CSS
 
 # Learn CSS at Codecademy
 
@@ -12,4 +10,4 @@ To solve this problem, the World Wide Web Consortium (W3C) created CSS. It allow
 
 ## Assignment
 
-[Codecademy "Learn CSS" Course](https://www.codecademy.com/learn/learn-css)
+Complete the [Codecademy "Learn CSS" Course](https://www.codecademy.com/learn/learn-css) to get a working knowledge of how CSS lets software developer control the styling and layout of a web page.

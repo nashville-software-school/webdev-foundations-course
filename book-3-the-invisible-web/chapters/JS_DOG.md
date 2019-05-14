@@ -1,9 +1,4 @@
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Codecademy - Introduction To JavaScript](./JS_CODECADEMY.md) | [LearnCode Academy - JavaScript Tutorial for Beginners](./JS_LEARNCODE.md) |
-
-<br/>
-<br/>
+[Welcome](https://nashville-software-school.github.io/prework/) > [Book 3 - The Invisible Web](../README.md) > HTML Dog - JavaScript
 
 # HTML Dog - JavaScript Beginner Tutorial
 
@@ -30,13 +25,3 @@ Time to copy files again. You're going to leave the code your wrote in `index.ht
 
 
 Now visit the HTML Dog [JavaScript Beginner Tutorial](https://www.htmldog.com/guides/javascript/beginner/) and use your `main.js` file to write all of your JavaScript as you go through the course.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-| Previous Chapter | Next Chapter |
-| :------------- |:-------------|
-| [Codecademy - Introduction To JavaScript](./JS_CODECADEMY.md) | [LearnCode Academy - JavaScript Tutorial for Beginners](./JS_LEARNCODE.md) |
