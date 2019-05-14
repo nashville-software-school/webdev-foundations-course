@@ -1,4 +1,4 @@
-# The Terminal
+# Book 4 - The Terminal
 
 > **IMPORTANT:** For the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users. For Mac users, it is the Terminal application.
 

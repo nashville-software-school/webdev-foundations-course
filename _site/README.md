@@ -23,7 +23,7 @@ That's a good thing, because we _want you to make as many mistakes as possible_.
 <ul class="single-item">
     <li>
         <p class="listitem__header">Foreword</p>
-        <a href="./chapters/HOW_TO_LEARN.md">Learning and Asking Questions</a>
+        <a href="./book-1-your-computer/chapters/HOW_TO_LEARN.html">Learning and Asking Questions</a>
     </li>
 </ul>
 
@@ -35,7 +35,7 @@ To learn the basics of using your computer and using your keyboard, click on Get
 <ul class="single-item">
     <li>
         <p class="listitem__header">Book 1</p>
-        <a href="./book-1-your-computer/README.md">Getting Started</a>
+        <a href="./book-1-your-computer/">Getting Started</a>
     </li>
 </ul>
 
