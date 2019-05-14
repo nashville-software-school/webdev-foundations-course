@@ -25,7 +25,7 @@ Use the Spotlight Search to launch terminal (use "terminal" to search)
 Once it is running, type in the following command. You will learn more about this command later. We know, it looks alien and scary, but it's not doing anything dangerous. It's just creating a configuration file for your terminal.
 
 ```sh
-echo 'alias gs="git status"' > ~/.bashrc
+echo 'alias gs="git status"' >> ~/.bashrc
 ```
 
 
