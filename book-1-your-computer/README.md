@@ -31,10 +31,4 @@ If you have a Windows machine, follow the instructions in the following three ch
 * [Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
 
 
-## Command Line Basics
-
-* Intro, Basic Commands, and Usage
-* Installing the `tree` command
-* Installing `http-server` Using NPM
-
 Next is [Book 2 - The Visible Web](../book-2-the-visible-web/README.md).
