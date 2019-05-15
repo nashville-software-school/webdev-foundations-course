@@ -1,4 +1,4 @@
-[Welcome](/) > Laptop Recommendations
+[Welcome](https://nashville-software-school.github.io/prework/) > Laptop Recommendations
 
 # Buying a Laptop
 
