@@ -10,6 +10,12 @@ If you don't do the **Foundations Course**, you will be immediately behind your 
 
 Nashville Software School is an accelerated bootcamp, and you will hit the ground running on day one. We will assume that you've completed this work, and provide minimal resources to you if you have not. Additionally, the life of a software developer is one of focus and meeting committments. Completing the **Foundations Course** shows us that you have the ability to prioritize this work, can focus on it, and meet the committment of completing it.
 
+## Foundation Sessions
+
+Another opportunity we provide for your foundations are training sessions before your cohort starts. Starting 4 weeks before the beginning of the cohort, on each Thursday evening, you can come in to ask questions, meet your teammates, and get some mentoring on this **Foundations Course**. These are a great opportunity for you to make sure you are set up for success on day one of your cohort.
+
+They start at 5:00 PM and go to 7:00 PM in one of the classrooms at NSS.
+
 ## Being a Student at Nashville Software School
 
 The environment at Nashville Software School is likely something you have never experienced before, especially in an educational environment. You will be coached on attaining a [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) so that you can meet all of the challenges with excitement instead of fear. You will be reading, writing, and talking about code every, single day.
@@ -34,9 +40,11 @@ Read the following two foreword chapters to discover about what we expect from o
 </ul>
 
 
-## Time to get started!
+# Time to get started!
 
-To learn the basics of using your computer and using your keyboard, click on Getting Started below. These are crucial to start with because you will be typing more than you ever have before (unless you're a novelist), and being comfortable with using keyboard shortcuts will save you a tremendous amount of time while you are coding.
+Start with Book 1 and work your way through the books following the order of the sections in each.
+
+Make a plan. Stick with it. Decide on how long you want to study each day _(we recommend 2 - 3 hours each day)_, and set yourself up to not have any distractions during that time.
 
 <ul class="list list--singleItem">
     <li class="listItem listItem--singleItem">

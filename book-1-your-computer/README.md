@@ -12,7 +12,7 @@
 
 # Book 1 - Your Computer
 
-In this book, you will learn fundamental skills for navigating your computer, installing software, and using the keyboard instead of the mouse/trackpad to move around.
+In this book, you will learn the basics of using your computer and using your keyboard. These are crucial to start with because you will be typing more than you ever have before (unless you're a novelist), and being comfortable with using keyboard shortcuts and navigating your operating system will save you a tremendous amount of time while you are coding.
 
 ## Setting up OSX
 
