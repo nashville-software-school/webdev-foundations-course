@@ -20,7 +20,7 @@ Most of it will be bad.
 
 That's a good thing, because we _want you to make as many mistakes as possible_. That sounds strange that we would want you to do things incorrectly, but it is an important step in learning.
 
-Read the following two foreword chapters to read about what we expect from our students, and see our recommendations for your laptop during your cohort.
+Read the following two foreword chapters to discover about what we expect from our students, and see our recommendations for your laptop during your cohort.
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
