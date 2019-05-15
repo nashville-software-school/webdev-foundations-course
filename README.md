@@ -18,12 +18,16 @@ We talk very little about theory. Just enough to support your ability to write c
 
 Most of it will be bad.
 
-That's a good thing, because we _want you to make as many mistakes as possible_. The human brain learns by making mistakes and being corrected. Read the the following chapter to hear in more detail about what we expect from our students, and what your experience will be like.
+That's a good thing, because we _want you to make as many mistakes as possible_. Read the the following two foreword chapters to read about what we expect from our students, and see our recommendations for your laptop during your cohort.
 
-<ul class="single-item">
+<ul class="double-item">
     <li>
         <p class="listitem__header">Foreword</p>
         <a href="./book-1-your-computer/chapters/HOW_TO_LEARN.html">Student Expectations</a>
+    </li>
+    <li>
+        <p class="listitem__header">Foreword</p>
+        <a href="./book-1-your-computer/chapters/LAPTOP.html">Laptop Requirements</a>
     </li>
 </ul>
 

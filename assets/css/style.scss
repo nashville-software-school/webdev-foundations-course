@@ -23,12 +23,21 @@ ul {
     flex-direction: row;
     justify-content: space-between;
     list-style-type: none;
+    padding-inline-start: 0;
 
     &.single-item {
         justify-content: space-around;
 
         li {
             flex-basis: 40%;
+        }
+    }
+
+    &.double-item {
+        justify-content: space-around;
+
+        li {
+            flex-basis: 45%;
         }
     }
 

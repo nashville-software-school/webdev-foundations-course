@@ -323,9 +323,11 @@ a:hover { text-decoration: underline; }
 
 .left { margin-right: auto; }
 
-ul { display: flex; flex-direction: row; justify-content: space-between; list-style-type: none; }
+ul { display: flex; flex-direction: row; justify-content: space-between; list-style-type: none; padding-inline-start: 0; }
 ul.single-item { justify-content: space-around; }
 ul.single-item li { flex-basis: 40%; }
+ul.double-item { justify-content: space-around; }
+ul.double-item li { flex-basis: 45%; }
 ul.nav--books { font-size: smaller; }
 ul.nav--books li { padding: 5px 10px; border: 1px solid #ABD1C8; flex-basis: 31%; }
 ul.nav--books :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
