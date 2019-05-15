@@ -12,9 +12,9 @@
 
 # Book 3 - The Invisible Web
 
-In this book, you will learn some fundamental concepts and skills in writing the logic and operations that power modern websites in the JavaScript language. There are more chapters in this book than in Book 2 because the first three months at Nashville Software School focuses almost exclusively on building applications for the browser with JavaScript.
+In this book, you will learn some fundamental concepts and skills in writing the logic and operations that power modern websites in the JavaScript language. The first three months at Nashville Software School focuses almost exclusively on building applications for the browser with JavaScript.
 
-You will learn about the basics of logical programming.
+Making as much progress on JavaScript is **critical** to your success early in the course.
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
