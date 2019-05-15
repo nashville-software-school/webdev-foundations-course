@@ -1,0 +1,36 @@
+.list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.list--singleItem {
+    justify-content: space-around;
+}
+
+.list--doubleItems {
+    justify-content: space-around;
+}
+
+.list--books {
+    font-size: smaller;
+
+    li {
+        padding: 5px 10px;
+        border: 1px solid #ABD1C8;
+        flex-basis: 31%;
+
+        span {
+            font-weight: 300;
+        }
+    }
+
+    :hover {
+        cursor: pointer;
+        animation: none;
+        z-index: inherit;
+        box-shadow: none;
+    }
+}

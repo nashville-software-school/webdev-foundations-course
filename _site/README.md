@@ -20,13 +20,13 @@ Most of it will be bad.
 
 That's a good thing, because we _want you to make as many mistakes as possible_. Read the the following two foreword chapters to read about what we expect from our students, and see our recommendations for your laptop during your cohort.
 
-<ul class="double-item">
-    <li>
-        <p class="listitem__header">Foreword</p>
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Foreword</p>
         <a href="./book-1-your-computer/chapters/HOW_TO_LEARN.html">Student Expectations</a>
     </li>
-    <li>
-        <p class="listitem__header">Foreword</p>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Foreword</p>
         <a href="./book-1-your-computer/chapters/LAPTOP.html">Laptop Requirements</a>
     </li>
 </ul>
@@ -36,9 +36,9 @@ That's a good thing, because we _want you to make as many mistakes as possible_.
 
 To learn the basics of using your computer and using your keyboard, click on Getting Started below. These are crucial to start with because you will be typing more than you ever have before (unless you're a novelist), and being comfortable with using keyboard shortcuts will save you a tremendous amount of time while you are coding.
 
-<ul class="single-item">
-    <li>
-        <p class="listitem__header">Book 1</p>
+<ul class="list list--singleItem">
+    <li class="listItem listItem--singleItem">
+        <p class="listItem__header">Book 1</p>
         <a href="./book-1-your-computer/">Getting Started</a>
     </li>
 </ul>

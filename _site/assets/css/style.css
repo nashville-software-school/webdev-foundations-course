@@ -318,23 +318,25 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.nav--books { display: flex; list-style-type: none; padding: 0; justify-content: flex-end; }
-.nav--books span { font-weight: 300; }
+.listItem { padding: 10px 20px; border: 1px solid royalblue; flex-basis: 30%; background-color: rgba(222, 237, 237, 0.2); }
+.listItem:hover { cursor: pointer; animation: jiggle 0.2s; transition: .4s all ease; z-index: 400; box-shadow: 5px 15px 20px rgba(72, 62, 23, 0.4); }
 
-.left { margin-right: auto; }
+.listItem__header { font-size: medium; font-weight: 700; }
 
-ul { display: flex; flex-direction: row; justify-content: space-between; list-style-type: none; padding-inline-start: 0; }
-ul.single-item { justify-content: space-around; }
-ul.single-item li { flex-basis: 40%; }
-ul.double-item { justify-content: space-around; }
-ul.double-item li { flex-basis: 45%; }
-ul.nav--books { font-size: smaller; }
-ul.nav--books li { padding: 5px 10px; border: 1px solid #ABD1C8; flex-basis: 31%; }
-ul.nav--books :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
-ul :hover { cursor: pointer; animation: jiggle 0.2s; transition: .4s all ease; z-index: 400; box-shadow: 5px 15px 20px rgba(72, 62, 23, 0.4); }
-ul li { padding: 10px 20px; border: 1px solid royalblue; flex-basis: 27%; }
-ul li :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
-ul li .listitem__header { font-size: medium; font-weight: 700; }
+.listItem--singleItem { flex-basis: 50%; }
+
+.listItem--doubleItems { flex-basis: 45%; }
+
+.list { display: flex; flex-direction: row; justify-content: space-between; list-style-type: none; padding-inline-start: 0; }
+
+.list--singleItem { justify-content: space-around; }
+
+.list--doubleItems { justify-content: space-around; }
+
+.list--books { font-size: smaller; }
+.list--books li { padding: 5px 10px; border: 1px solid #ABD1C8; flex-basis: 31%; }
+.list--books li span { font-weight: 300; }
+.list--books :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
 
 @keyframes jiggle { 0% { transform: rotate(0deg) scale(1); opacity: 1; }
   33% { transform: rotate(1deg) scale(1); opacity: 0.75; }

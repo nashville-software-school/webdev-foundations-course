@@ -1,12 +1,12 @@
 <nav>
-  <ul class="nav--books">
-    <li class="left">
-        <span>Previous:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>
-    </li>
-    <li class="right">
-        <span>Next:</span> <a href="../book-4-terminal-velocity">Book 4 - Terminal Velocity</a>
-    </li>
-  </ul>
+    <ul class="list list--books">
+        <li class="left">
+            <span>Previous:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>
+        </li>
+        <li class="right">
+            <span>Next:</span> <a href="../book-4-terminal-velocity">Book 4 - Terminal Velocity</a>
+        </li>
+    </ul>
 </nav>
 
 
@@ -16,10 +16,24 @@ In this book, you will learn some fundamental concepts and skills in writing the
 
 You will learn about the basics of logical programming.
 
-* <div class="listitem__header">Part 1</div>[Codecademy - Introduction To JavaScript](./chapters/JS_CODECADEMY.md)
-* <div class="listitem__header">Part 2</div>[HTML Dog - JavaScript Beginner Tutorial](./chapters/JS_DOG.md)
-* <div class="listitem__header">Part 3</div>[LearnCode Academy - JavaScript Tutorial for Beginners](./chapters/JS_LEARNCODE.md)
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 1</p>
+        <a href="./chapters/JS_CODECADEMY.md">Codecademy - Intro To JavaScript</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 2</p>
+        <a href="./chapters/JS_DOG.md">HTML Dog - JavaScript Tutorial</a>
+    </li>
+</ul>
 
-<div></div>
-
-* <div class="listitem__header">Part 4</div>[Free Code Camp - Javascript Algorithms And Data Structures](./chapters/JS_FREECODECAMP.md)
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/JS_LEARNCODE.md">LearnCode Academy</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 4</p>
+        <a href="./chapters/JS_FREECODECAMP.md">Free Code Camp</a>
+    </li>
+</ul>

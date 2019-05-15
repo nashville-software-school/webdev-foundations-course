@@ -1,5 +1,5 @@
 <nav>
-    <ul class="nav--books">
+    <ul class="list list--books">
         <li class="left">
             <span>Previous:</span> <a href="../book-1-your-computer">Book 1 - Getting Started</a>
         </li>
@@ -13,11 +13,24 @@
 
 In this book, you will learn some fundamental concepts and skills in building HTML and CSS to build the part of software that humans interact with on web sites. As always, you are encouraged to reach out for help if you struggle with any of the steps or code in this book.
 
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 1</p>
+        <a href="./chapters/HTML_CODECADEMY.md">Codecademy HTML</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 2</p>
+        <a href="./chapters/HTML_DOG.md">HTML Dog - Beginner HTML</a>
+    </li>
+</ul>
 
-* <div class="listitem__header">Part 1</div>[Codecademy HTML](./chapters/HTML_CODECADEMY.md)
-* <div class="listitem__header">Part 2</div>[HTML Dog - Beginner HTML](./chapters/HTML_DOG.md)
-* <div class="listitem__header">Part 3</div>[Codecademy CSS](./chapters/CSS_CODECADEMY.md)
-
-<div></div>
-
-* <div class="listitem__header">Part 4</div>[HTML Dog - Beginner CSS](./chapters/CSS_DOG.md)
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/CSS_CODECADEMY.md">Codecademy CSS</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 4</p>
+        <a href="./chapters/CSS_DOG.md">HTML Dog - Beginner CSS</a>
+    </li>
+</ul>

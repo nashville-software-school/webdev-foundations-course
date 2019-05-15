@@ -1,5 +1,5 @@
 <nav>
-  <ul class="nav--books">
+  <ul class="list list--books">
     <li class="left">
         <span>Previous:</span> <a href="../book-3-the-invisible-web">Book 3 - The Invisible Web</a>
     </li>

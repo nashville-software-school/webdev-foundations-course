@@ -1,12 +1,12 @@
 <nav>
-  <ul class="nav--books">
-    <li class="left">
-        <span>Previous:</span> None
-    </li>
-    <li class="right">
-        <span>Next:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>
-    </li>
-  </ul>
+    <ul class="list list--books">
+        <li class="left">
+            <span>Previous: </span><a href="/">Welcome</a>
+        </li>
+        <li class="right">
+            <span>Next:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>
+        </li>
+    </ul>
 </nav>
 
 
@@ -18,14 +18,36 @@ In this book, you will learn fundamental skills for navigating your computer, in
 
 If you have a Mac, follow the instructions in the following three chapters.
 
-* <div class="listitem__header">Part 1</div>[Installations for Mac](./chapters/GETTING_STARTED_MAC.md)
-* <div class="listitem__header">Part 2</div>[Starting Applications on Mac](./chapters/RUNNING_APPS_MAC.md)
-* <div class="listitem__header">Part 3</div>[Using the Keyboard for Mac](./chapters/APP_TAB_SWITCHING_MAC.md)
+<ul class="list">
+    <li class="listItem">
+        <p class="listItem__header">Part 1</p>
+        <a href="./chapters/GETTING_STARTED_MAC.html">Installations for Mac</a>
+    </li>
+    <li class="listItem">
+        <p class="listItem__header">Part 2</p>
+        <a href="./chapters/RUNNING_APPS_MAC.html">Starting Applications on Mac</a>
+    </li>
+    <li class="listItem">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/APP_TAB_SWITCHING_MAC.html">Using the Keyboard for Mac</a>
+    </li>
+</ul>
 
 ## Setting up Windows
 
 If you have a Windows machine, follow the instructions in the following three chapters.
 
-* <div class="listitem__header">Part 1</div> [Installations for Windows](./chapters/GETTING_STARTED_WINDOWS.md)
-* <div class="listitem__header">Part 2</div>[Starting Applications on Windows](./chapters/RUNNING_APPS_WINDOWS.md)
-* <div class="listitem__header">Part 3</div>[Using the Keyboard for Windows](./chapters/APP_TAB_SWITCHING_WINDOWS.md)
+<ul class="list">
+    <li class="listItem">
+        <p class="listItem__header">Part 1</p>
+        <a href="./chapters/GETTING_STARTED_WINDOWS.html">Installations for Windows</a>
+    </li>
+    <li class="listItem">
+        <p class="listItem__header">Part 2</p>
+        <a href="./chapters/RUNNING_APPS_WINDOWS.html">Starting Applications on Windows</a>
+    </li>
+    <li class="listItem">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/APP_TAB_SWITCHING_WINDOWS.html">Using the Keyboard for Windows</a>
+    </li>
+</ul>

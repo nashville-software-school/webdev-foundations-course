@@ -1,0 +1,27 @@
+.listItem {
+    padding: 10px 20px;
+    border: 1px solid royalblue;
+    flex-basis: 30%;
+    background-color: rgba(222, 237, 237, 0.2);
+
+    &:hover {
+        cursor: pointer;
+        animation: jiggle 0.2s;
+        transition: .4s all ease;
+        z-index: 400;
+        box-shadow: 5px 15px 20px rgba(72, 62, 23, 0.4)
+    }
+}
+
+.listItem__header {
+    font-size: medium;
+    font-weight: 700;
+}
+
+.listItem--singleItem {
+    flex-basis: 50%;
+}
+
+.listItem--doubleItems {
+    flex-basis: 45%;
+}

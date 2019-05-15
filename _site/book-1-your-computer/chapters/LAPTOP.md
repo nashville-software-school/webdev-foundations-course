@@ -10,9 +10,9 @@ Having the right laptop will make a difference in your experience at NSS. It's i
 
 It is recommended that you get a laptop with the Windows operating system in you are enrolled in a C# cohort. Minimum specs are as follows.
 
-* <div class="listitem__header">Memory</div> 8GB minimum. 16GB preferred.
-* <div class="listitem__header">Hard drive</div> 512GB minimum
-* <div class="listitem__header">CPU</div>i5 minimum. <br/>i7 preferred.
+* <div class="listItem__header">Memory</div> 8GB minimum. 16GB preferred.
+* <div class="listItem__header">Hard drive</div> 512GB minimum
+* <div class="listItem__header">CPU</div>i5 minimum. <br/>i7 preferred.
 * Windows version 10
 
 ### Mac Laptop

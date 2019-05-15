@@ -16,7 +16,7 @@ Only watch the first seven videos with the "Javascript Tutorial For Beginners" t
 
 <ul class="single-item">
     <li>
-        <p class="listitem__header">Video Series</p>
+        <p class="listItem__header">Video Series</p>
         <a href="https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACnrXwo5HMCfOH9VT05znGv">Javascript Tutorial For Beginners</a>
     </li>
 </ul>
