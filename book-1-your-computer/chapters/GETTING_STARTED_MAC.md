@@ -6,11 +6,20 @@ First, you need to install some tools that you will be using both for the Founda
 
 If you have never installed software before on your Mac, once you download the installer and run it, you are usually presented with a window that asks you to click and drag the program into the Applications folder. You need to do that to ensure that it is installed correctly.
 
-![Installing Chrome](./images/nHbbyljpog.gif)
-
 ## Google Chrome
 
+![Installing Chrome](./images/nHbbyljpog.gif)
+
 [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html) is the most popular browser for web developers because of the powerful tools it provides to test code, manipulate documents, and measure performance.
+
+## Install Slack
+
+Our main way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/mac) now when you receive your invitation from admissions, immediately join and make sure you join your cohort channel. Our admissions team will send your an email inviting you to join. Be on the lookout for that email.
+
+When you create your Slack account, you must:
+
+1. Use your real name.
+1. Add a picture so we can recognize you.
 
 ## Visual Studio Code
 

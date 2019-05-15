@@ -16,21 +16,21 @@ In this book, you will learn some fundamental concepts and skills in building HT
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <a href="./chapters/HTML_CODECADEMY.md">Codecademy HTML</a>
+        <a href="./chapters/HTML_CODECADEMY.html">Codecademy HTML</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <a href="./chapters/HTML_DOG.md">HTML Dog - Beginner HTML</a>
+        <a href="./chapters/HTML_DOG.html">HTML Dog - Beginner HTML</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <a href="./chapters/CSS_CODECADEMY.md">Codecademy CSS</a>
+        <a href="./chapters/CSS_CODECADEMY.html">Codecademy CSS</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <a href="./chapters/CSS_DOG.md">HTML Dog - Beginner CSS</a>
+        <a href="./chapters/CSS_DOG.html">HTML Dog - Beginner CSS</a>
     </li>
 </ul>
