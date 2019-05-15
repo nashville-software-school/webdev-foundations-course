@@ -34,3 +34,13 @@
         box-shadow: none;
     }
 }
+
+.list--noLinks {
+    font-size: medium;
+    :hover {
+        cursor: default;
+        animation: none;
+        z-index: inherit;
+        box-shadow: none;
+    }
+}

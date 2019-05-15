@@ -338,6 +338,9 @@ a:hover { text-decoration: underline; }
 .list--books li span { font-weight: 300; }
 .list--books :hover { cursor: pointer; animation: none; z-index: inherit; box-shadow: none; }
 
+.list--noLinks { font-size: medium; }
+.list--noLinks :hover { cursor: default; animation: none; z-index: inherit; box-shadow: none; }
+
 @keyframes jiggle { 0% { transform: rotate(0deg) scale(1); opacity: 1; }
   33% { transform: rotate(1deg) scale(1); opacity: 0.75; }
   66% { transform: rotate(-1deg) scale(1); opacity: 0.5; }
