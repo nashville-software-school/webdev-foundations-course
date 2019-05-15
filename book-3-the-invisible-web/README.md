@@ -19,21 +19,21 @@ You will learn about the basics of logical programming.
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <a href="./chapters/JS_CODECADEMY.md">Codecademy - Intro To JavaScript</a>
+        <a href="./chapters/JS_CODECADEMY.html">Codecademy - Intro To JavaScript</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <a href="./chapters/JS_DOG.md">HTML Dog - JavaScript Tutorial</a>
+        <a href="./chapters/JS_DOG.html">HTML Dog - JavaScript Tutorial</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <a href="./chapters/JS_LEARNCODE.md">LearnCode Academy</a>
+        <a href="./chapters/JS_LEARNCODE.html">LearnCode Academy</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <a href="./chapters/JS_FREECODECAMP.md">Free Code Camp</a>
+        <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
     </li>
 </ul>
