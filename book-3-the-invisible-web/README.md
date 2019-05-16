@@ -37,3 +37,14 @@ Making as much progress on JavaScript is **critical** to your success early in t
         <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
     </li>
 </ul>
+
+## Check Your Knowledge
+
+Once you have completed the exercises, you need to click the button below and see how far you have come. Please use all resources at your disposal - your code, the exercise content, Google - when you are making choices.
+
+<div class="assessment">
+    <a
+        class="button yellow"
+        href="https://docs.google.com/forms/d/e/1FAIpQLSciTusu81NaXYEgjoBNvbjIkO2lQ2U3MGp70SN9p7FgInmmGA/viewform?usp=sf_link"
+        target="_blank">Show Us What You Have Learned</a>
+<div>

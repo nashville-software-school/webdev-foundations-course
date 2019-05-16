@@ -23,7 +23,126 @@
     background: rgba(220,220,220,1);
 }
 
-/*Removes line from underneath link*/
 a.anchor--button {
     text-decoration: none;
 }
+
+.button {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+    text-shadow: -2px 2px 0 rgba(black, 0.2);
+    font-weight: bold;
+    padding-right: 50px;
+    margin: 10px;
+    &.blue {
+      background-image: linear-gradient( to top, #a2d3e9, #7abedf );
+      box-shadow:
+        -1px 0px 1px #6fadcb, 0px 1px 1px #54809d,
+        -2px 1px 1px #6fadcb, -1px 2px 1px #54809d,
+        -3px 2px 1px #6fadcb, -2px 3px 1px #54809d,
+        -4px 3px 1px #6fadcb, -3px 4px 1px #54809d,
+        -5px 4px 1px #6fadcb, -4px 5px 1px #54809d,
+        -6px 5px 1px #6fadcb,
+
+        -6px 7px  0 rgba(black, 0.05),
+        -5px 8px  0 rgba(black, 0.05),
+        -3px 9px  0 rgba(black, 0.04),
+        -2px 10px 0 rgba(black, 0.04),
+        -1px 11px 0 rgba(black, 0.03),
+         0px 12px 0 rgba(black, 0.03),
+         1px 13px 0 rgba(black, 0.02),
+         2px 14px 0 rgba(black, 0.02),
+         3px 15px 0 rgba(black, 0.01),
+         4px 16px 0 rgba(black, 0.01),
+         5px 17px 0 rgba(black, 0.01),
+         6px 18px 0 rgba(black, 0.01),
+
+      inset 0 4px 5px -2px rgba(white, 0.5),
+      inset 0 1px 0 0 rgba(black, 0.3);
+
+    }
+    &.yellow {
+      background-image: linear-gradient(
+         to top, #f2d851, #ecc92b
+      );
+      color: black;
+      text-shadow: -2px 2px 0 rgba(white, 0.3);
+      box-shadow:
+        -1px 0px 1px #d9b826, 0px 1px 1px #b1961d,
+        -2px 1px 1px #d9b826, -1px 2px 1px #b1961d,
+        -3px 2px 1px #d9b826, -2px 3px 1px #b1961d,
+        -4px 3px 1px #d9b826, -3px 4px 1px #b1961d,
+        -5px 4px 1px #d9b826, -4px 5px 1px #b1961d,
+        -6px 5px 1px #d9b826,
+
+        -6px 7px  0 rgba(black, 0.05),
+        -5px 8px  0 rgba(black, 0.05),
+        -3px 9px  0 rgba(black, 0.04),
+        -2px 10px 0 rgba(black, 0.04),
+        -1px 11px 0 rgba(black, 0.03),
+         0px 12px 0 rgba(black, 0.03),
+         1px 13px 0 rgba(black, 0.02),
+         2px 14px 0 rgba(black, 0.02),
+         3px 15px 0 rgba(black, 0.01),
+         4px 16px 0 rgba(black, 0.01),
+         5px 17px 0 rgba(black, 0.01),
+         6px 18px 0 rgba(black, 0.01),
+
+         inset 0 4px 5px -2px rgba(white, 0.5),
+         inset 0 1px 0 0 rgba(black, 0.3);
+       &:after, &:before {
+          background: black;
+       }
+       &:after {
+        box-shadow: -2px 0 0 rgba(white, 0.4);
+       }
+       &:before {
+        box-shadow: 0 -2px 0 rgba(white, 0.35);
+      }
+      .arrow {
+         box-shadow: -2px 0 0 rgba(white, 0.4);
+      }
+    }
+    transition: all 0.1s linear;
+    transform: translateZ(0);
+    &:active {
+      box-shadow: none;
+      transform: translate3d( -6px, 6px, 0 );
+    }
+    .arrow {
+      box-shadow: -2px 0 0 rgba(black, 0.2);
+    }
+    &:after {
+      box-shadow: -2px 0 0 rgba(black, 0.2);
+    }
+    &:after, &:before {
+      position: absolute;
+      content: " ";
+      right: 15px;
+      top: 14px;
+      width: 6px;
+      height: 18px;
+      background: white;
+      transform: rotate(-45deg);
+      display: block;
+      z-index:2;
+    }
+    &:before {
+      height: 14px;
+      top: 26px;
+      right: 16px;
+      z-index:3;
+      transform: rotate(-137deg);
+      box-shadow: 0 -2px 0 rgba(black, 0.15);
+    }
+    /*
+    Kinda replicates keyline but looks dumb.
+    @include filter(
+      drop-shadow(0 1px 0 rgba(blue, 0.2))
+      drop-shadow(0 -1px 0 rgba(blue, 0.2))
+    );
+    */
+  }

@@ -34,3 +34,14 @@ In this book, you will learn some fundamental concepts and skills in building HT
         <a href="./chapters/CSS_DOG.html">HTML Dog - Beginner CSS</a>
     </li>
 </ul>
+
+## Check Your Knowledge
+
+Once you have completed the exercises, you need to click the button below and see how far you have come. Please use all resources at your disposal - your code, the exercise content, Google - when you are making choices.
+
+<div class="assessment">
+    <a
+        class="button yellow"
+        href="https://docs.google.com/forms/d/e/1FAIpQLScO6_CS2z0YlSmsvyRlCg6cFzBZMnExruy64RSac1E4h_n0Bg/viewform?usp=sf_link"
+        target="_blank">Show Us What You Have Learned</a>
+<div>
