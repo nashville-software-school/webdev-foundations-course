@@ -43,7 +43,7 @@ touch index.html
 touch personal.css
 ```
 
-This is how it looks in Mac Finder. It would similar in Windows File Explorer.
+This is how it looks in Mac Finder. It would look similar in Windows File Explorer.
 
 ![](./images/personal-directory.png)
 
