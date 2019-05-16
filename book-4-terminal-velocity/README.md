@@ -26,7 +26,7 @@ cd ~/workspace
 
 ## Creating Directories
 
-`mkdir` is the command for creating directories. Just `cd` to the directory in which you want to create a sub-directory and use that command. For example, if you want to create a `personal` directory in your workspace, you can enter in the following commands.
+`mkdir` is the command for creating directories. You may call these folders now, but when you are software developer, they are known as directories. Just `cd` to the directory in which you want to create a sub-directory and use that command. For example, if you want to create a `personal` directory in your workspace, you can enter in the following commands.
 
 ```sh
 cd ~/workspace
@@ -43,6 +43,10 @@ touch index.html
 touch personal.css
 ```
 
+This is how it looks in Mac Finder. It would similar in Windows File Explorer.
+
+![](./images/personal-directory.png)
+
 ## Project Directory Structure
 
 There are some standard directories that web developers creating when starting a project. Once the main directory is created, an HTML file is created in it. Then two sub-directories are created.
@@ -52,14 +56,12 @@ There are some standard directories that web developers creating when starting a
 
 ## Moving files in the terminal
 
-The `mv` command moves files from one directory to another. For example, if you created the `personal.css` file in your `personal` directory, but want to move it into the `css` sub-directory, you would use the following commands. The pattern is `mv [what to move] [where to move it]`.
+The `mv` command moves files from one directory to another. For example, if you created the `personal.css` file in your `personal` directory, but want to move it into the `css` sub-directory, you would use the following commands. The pattern is `mv [file to move] [path to target directory]`.
 
 ```sh
 cd ~/workspace/personal
 mv personal.css css
 ```
-
-
 
 ## `.bashrc` intialization file
 
@@ -67,7 +69,9 @@ Earlier in the Foundations Course, we had you enter in a command in your termina
 
 Software developers use this file to set up help shortcuts and functions to help accelerate their workflow. Here's an example of something that a developer might do.
 
-## Your First Bash Alias
+## Optional: Your First Bash Alias
+
+> **TIP:** Bash aliases are a bit more advanced and require a small amount of comfort in the terminal. If you are still feeling shaky with terminal, feel free to skip this and come back later if you want.
 
 In order to delete a directory, you need to precede the directory name with `rm -rf`. For example, if you want to delete the `personal` directory in your workspace, you would type in the following command.
 

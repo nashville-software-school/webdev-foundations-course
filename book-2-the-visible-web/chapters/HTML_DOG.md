@@ -48,6 +48,8 @@ You need to make sure that you can run Visual Studio Code from the command line.
     mkdir css
     mkdir javascript
     ```
+    This is how your directory structure will look in Mac Finder or Windows File Explorer.
+    ![workspace directory contents](./images/workspace.png)
 1. Then move to your `html` directory.
     ```sh
     cd html
