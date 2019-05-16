@@ -51,3 +51,10 @@ If you have a Windows machine, follow the instructions in the following three ch
         <a href="./chapters/APP_TAB_SWITCHING_WINDOWS.html">Using the Keyboard for Windows</a>
     </li>
 </ul>
+
+<div class="assessment">
+    <a
+        class="anchor--button"
+        href="http://www.youtube.com/embed/YTR21os8gTA?autoplay=1"
+        target="_blank_">Show Us What You Have Learned</a>
+<div>
