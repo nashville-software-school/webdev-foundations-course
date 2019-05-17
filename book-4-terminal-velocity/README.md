@@ -49,7 +49,7 @@ This is how it looks in Mac Finder. It would look similar in Windows File Explor
 
 ## Project Directory Structure
 
-There are some standard directories that web developers creating when starting a project. Once the main directory is created, an HTML file is created in it. Then two sub-directories are created.
+There are some standard directories that web developers create when starting a project. Once the main directory is created, an HTML file is created in it. Then two sub-directories are created.
 
 1. `css` to contain all the CSS files.
 1. `scripts` to contain all the JavaScript files.
@@ -80,7 +80,7 @@ cd ~/workspace
 rm -rf personal
 ```
 
-That may not seem like a big deal, but over time, typing in `rm -rf` is just awkward enough to make a developer want to type in something else in its stead. To do this you would create something called an alias. Let's alias the work `nuke` to mean `rm -rf`.
+That may not seem like a big deal, but over time, typing in `rm -rf` is just awkward enough to make a developer want to type in something else in its stead. To do this you would create something called an alias. Let's alias the word `nuke` to mean `rm -rf`.
 
 Type in the following command.
 

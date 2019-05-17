@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Running Applications on a Mac
+[Welcome](../../) > [Book 1 - Getting Started](../README.md) > Running Applications on a Mac
 
 # Ditching the Dock Bar
 

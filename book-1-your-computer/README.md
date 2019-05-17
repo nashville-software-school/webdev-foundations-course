@@ -1,7 +1,7 @@
 <nav>
     <ul class="list list--books">
         <li class="left">
-            <span>Previous: </span><a href="/">Welcome</a>
+            <span>Previous: </span><a href="../">Welcome</a>
         </li>
         <li class="right">
             <span>Next:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>

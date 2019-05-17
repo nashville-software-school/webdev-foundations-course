@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Windows Installations
+[Welcome](../../) > [Book 1 - Getting Started](../README.md) > Windows Installations
 
 # Getting Started
 

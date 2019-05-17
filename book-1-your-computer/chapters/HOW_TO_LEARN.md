@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > Student Expectations
+[Welcome](../../) > Student Expectations
 
 # Learning to Learn
 

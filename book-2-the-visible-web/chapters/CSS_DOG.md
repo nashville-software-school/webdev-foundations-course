@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 2 - The Visible Web](../README.md) > HTML Dog CSS Course
+[Welcome](../../) > [Book 2 - The Visible Web](../README.md) > HTML Dog CSS Course
 
 # Adding CSS to your Web Page
 

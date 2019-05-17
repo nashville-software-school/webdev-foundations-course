@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 2 - The Visible Web](../README.md) > Codecademy CSS
+[Welcome](../../) > [Book 2 - The Visible Web](../README.md) > Codecademy CSS
 
 # Learn CSS at Codecademy
 

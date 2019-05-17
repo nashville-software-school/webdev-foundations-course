@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Mac Keyboard Shortcuts
+[Welcome](../../) > [Book 1 - Getting Started](../README.md) > Mac Keyboard Shortcuts
 
 # Common Keyboard Shortcuts in OSX
 

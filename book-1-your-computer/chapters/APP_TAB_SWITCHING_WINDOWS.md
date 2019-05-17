@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 1 - Getting Started](../README.md) > Windows Keyboard Shortcuts
+[Welcome](../../) > [Book 1 - Getting Started](../README.md) > Windows Keyboard Shortcuts
 
 # Common Keyboard Shortcuts in Windows
 

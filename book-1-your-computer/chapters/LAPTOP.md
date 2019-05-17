@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > Laptop Recommendations
+[Welcome](../../) > Laptop Recommendations
 
 # Hardware Requirements
 

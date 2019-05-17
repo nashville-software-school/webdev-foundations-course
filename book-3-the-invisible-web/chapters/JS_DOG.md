@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 3 - The Invisible Web](../README.md) > HTML Dog - JavaScript
+[Welcome](../../) > [Book 3 - The Invisible Web](../README.md) > HTML Dog - JavaScript
 
 # HTML Dog - JavaScript Beginner Tutorial
 

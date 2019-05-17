@@ -1,4 +1,4 @@
-[Welcome](https://nashville-software-school.github.io/prework/) > [Book 3 - The Invisible Web](../README.md) > freeCodeCamp - JavaScript
+[Welcome](../../) > [Book 3 - The Invisible Web](../README.md) > freeCodeCamp - JavaScript
 
 # freeCodeCamp JavaScript Course
 
