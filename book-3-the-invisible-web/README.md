@@ -47,4 +47,27 @@ Once you have completed the exercises, you need to click the button below and se
         class="button yellow"
         href="https://docs.google.com/forms/d/e/1FAIpQLSciTusu81NaXYEgjoBNvbjIkO2lQ2U3MGp70SN9p7FgInmmGA/viewform?usp=sf_link"
         target="_blank">Show Us What You Have Learned</a>
-<div>
+</div>
+
+<br/>
+<br/>
+<br/>
+
+---
+
+## Related Links
+
+<ul>
+    <li>
+        <a href="../">Welcome</a>
+    </li>
+    <li>
+        <a href="../book-1-your-computer/">Book 1 - Getting Started</a>
+    </li>
+    <li>
+        <a href="../book-2-the-visible-web/">Book 2 - The Visible Web</a>
+    </li>
+    <li>
+        <a href="../book-4-terminal-velocity/">Book 4 - Terminal Velocity</a>
+    </li>
+</ul>

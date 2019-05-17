@@ -27,7 +27,7 @@ Sometimes the application you want to run doesn't show in the Start menu. That's
 1. Use the Search to launch your terminal (use "bash" to search and open Git Bash)
 
 
-## Advanced: Spotlight for Windows
+## Optional: Spotlight for Windows
 
 If you have been a Mac user in the past, and Windows is new to you, and you want to use something like Spotlight on Windows, you can install an application named [Hain](https://github.com/hainproject/hain) that provides that functionality.
 
