@@ -13,6 +13,10 @@
     flex-direction: row;
 }
 
+.project-tagline, .page-header > .btn {
+    display: none;
+}
+
 @keyframes jiggle {
     0% { transform: rotate(0deg) scale(1); opacity: 1; }
     33% { transform: rotate(1deg) scale(1.0); opacity: 0.75; }
