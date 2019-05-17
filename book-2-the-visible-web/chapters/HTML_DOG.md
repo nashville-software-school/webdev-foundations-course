@@ -85,7 +85,7 @@ You need to make sure that you can run Visual Studio Code from the command line.
     code .
     ```
 
-1. Once Code finishes loading, on the left you will see the `myfirstpage.html` file. Double-click it to start editing.
+1. Once Code finishes loading, on the left you will see the `myfirstpage.html` file. Double-click it to start editing. You can even start typing "html" and choose the "html:5" option to get some boilerplate code given to you.
 
     ![opening html file](./images/open-html.gif)
 
