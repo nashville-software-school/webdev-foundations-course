@@ -4,9 +4,9 @@
 
 ## Backup Drive
 
-You will be learning amazing things during your time at NSS. However, with great power comes resposibility. You will be pushing your laptop harder that you ever had before. You may also spill water or coffee on your laptop while in class. You may drop your laptop. You may inadvertantly run a command that permanently deletes very import files that make your operating system work.
+You will be learning amazing things during your time at NSS. However, with great power comes responsibility. You will be pushing your laptop harder that you ever had before. You may also spill water or coffee on your laptop while in class. You may drop your laptop. You may inadvertantly run a command that permanently deletes very important files that make your operating system work.
 
-Because of these very common issues that students have, we strongly urge you to buy a backup drive for your laptop to ensure that you don't lose the investment you've made in your computer and your time at NSS.
+Because of these common issues that students have, we strongly urge you to buy a backup drive for your laptop to ensure that you don't lose the investment you've made in your computer and your time at NSS.
 
 ## Buying a Laptop
 

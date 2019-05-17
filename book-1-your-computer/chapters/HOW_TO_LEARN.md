@@ -36,6 +36,6 @@ You will be presented with large challenges as we guide you through rewiring you
 
 If you adopt the beginner's mind, then you will see the power of asking questions. Curiosity is squashed out of us by the traditional education environment, and your time at NSS will be your opportunity to re-ignite that passion for knowledge that we are all born with.
 
-In the years we have been coaching students through this program, the ones who struggle the most, or don't make it at all are the ones who put have an internal dialogue of _"I need to do this myself. I just need to work harder."_ or _"I don't need help from anyone. I should know this."_
+In the years we have been coaching students through this program, the ones who struggle the most, or don't make it at all are the ones who have an internal dialogue of _"I need to do this myself. I just need to work harder."_ or _"I don't need help from anyone. I should know this."_
 
 If you fall into that trap, you will not get what you need from this opportunity.
