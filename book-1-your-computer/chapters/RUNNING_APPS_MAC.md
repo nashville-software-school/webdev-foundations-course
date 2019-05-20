@@ -2,7 +2,7 @@
 
 # Ditching the Dock Bar
 
-As a Mac user, you most likely are used to using your mouse to navigate the operating system. Software developers use their keyboard for as many things as possible to accelerate their workflow and save time. This takes time, patient, and practice. In this chapter, you are going to learn how to start applications with your keyboard instead of clicking on an application on your desktop or in the Dock Bar at the bottom of the screen.
+As a Mac user, you most likely are used to using your mouse to navigate the operating system. Software developers use their keyboard for as many things as possible to accelerate their workflow and save time. This takes time, patience, and practice. In this chapter, you are going to learn how to start applications with your keyboard instead of clicking on an application on your desktop or in the Dock Bar at the bottom of the screen.
 
 ## Using Spotlight
 
