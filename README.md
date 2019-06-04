@@ -22,9 +22,6 @@ An online service that provides video lectures, coding tutorials, quizzes, and c
 
 This book provides focused examples of the JavaScript language's syntax and provides web-based exercises for you to practice, practice, practice. The exercises can be repetitive, but gaining a solid base in what the basic JavaScript language looks like will definitely prepare you for writing more complex code in class.
 
-
-
-
 ## Getting Started
 
 We want your time to be used as effectively as possible because we truly care about making sure you are ready to go on day 1. Therefore, we are providing some guidance on how you should work your way through the pre-work.
@@ -45,7 +42,11 @@ On Team Treehouse, work your way through the [Digital Literacy](https://teamtree
 
 ### Step 2
 
-Visit the website [Web Development 101 / Front End Introduction](https://www.theodinproject.com/courses/web-development-101#the-front-end) course and follow their guided tour of HTML and CSS. They provide wonderful visuals, explanations, and tutorials where you are writing the code with your own code editor and seeing the results live.
+### Interneting Is Hard
+
+Visit the [Interneting Is Hard](https://internetingishard.com/html-and-css/) website and follow their guided tour of HTML and CSS. They provide wonderful visuals, explanations, and tutorials where you are writing the code with your own code editor and seeing the results live.
+
+### Related Videos
 
 While you are doing this course, it's highly recommended to also watch the videos in the HTML and CSS sections of the Front End Web Development course on Team Treehouse. We've learned that some students find it highly valuable to watch the videos in the following section to supplement their work.
 
