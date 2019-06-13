@@ -4,13 +4,13 @@
 
 Thank you for choosing us to guide you through your journey to become a software developer!
 
-We want to ensure that you are as prepared as possible for the technologies and concepts that your instruction staff will be coaching you through in the first few weeks, so we have prepared a pre-work program. These resources will provide you with the basic skills, terminology, and context for what it will be like at Nashville Software School.
+We want to ensure that you are as prepared as possible for the technologies and concepts that your instruction staff will be coaching you through in the first few weeks, so we have prepared a Foundations Course. These resources will provide you with the basic skills, terminology, and context for what it will be like at Nashville Software School.
 
-> The pre-work is mandatory - not optional.
+> The Foundations Course is mandatory - not optional.
 
-# Pre-work Components
+# Foundations Course Components
 
-There are three major sources of content for your pre-work
+There are three major sources of content for your Foundations Course.
 
 ### Odin Project
 
@@ -26,7 +26,7 @@ This book provides focused examples of the JavaScript language's syntax and prov
 
 ## Getting Started
 
-We want your time to be used as effectively as possible because we truly care about making sure you are ready to go on day 1. Therefore, we are providing some guidance on how you should work your way through the pre-work.
+We want your time to be used as effectively as possible because we truly care about making sure you are ready to go on day 1. Therefore, we are providing some guidance on how you should work your way through the Foundations Course.
 
 ### Step 0
 
@@ -34,7 +34,7 @@ Get your subscription to Team Treehouse. As soon as you're signed up, you will g
 
 Make sure your profile is set to public and then email the URL to jeremiah.vasquez@nashvillesoftwareschool.com
 
-This pre-work plan has many different parts to it, so we made you a simple tool to keep track of your progress. **You can access that tool at tracker.nss.team**
+This Foundations Course plan has many different parts to it, so we made you a simple tool to keep track of your progress. **You can access that tool at tracker.nss.team**
 
 ### Step 1
 
