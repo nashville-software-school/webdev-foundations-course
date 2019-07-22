@@ -12,9 +12,9 @@ We want to ensure that you are as prepared as possible for the technologies and 
 
 There are three major sources of content for your Foundations Course.
 
-### Odin Project
+### Interneting is Hard
 
-The Odin Project is a vast collection of resources gathered by senior, experienced developers intended to help beginners take their first steps in learning how to build web applications.
+This site is an introduction to using tools on your own machine to build an HTML and CSS web page.
 
 ### TeamTreehouse.com ($25/month)
 
