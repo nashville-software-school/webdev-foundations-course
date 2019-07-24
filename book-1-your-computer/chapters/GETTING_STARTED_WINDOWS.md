@@ -4,15 +4,6 @@
 
 First, you need to install some tools that you will be using both for the Foundations Course and for your time at Nashville Software School.
 
-## Install Slack
-
-Our main way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/windows) now when you receive your invitation from admissions, immediately join and make sure you join your cohort channel. Our admissions team will send your an email inviting you to join. Be on the lookout for that email.
-
-When you create your Slack account, you must:
-
-1. Use your real name.
-1. Add a picture so we can recognize you.
-
 ## Install Git Bash (i.e. Terminal)
 
 > **IMPORTANT:** For the remainder of the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users.
@@ -34,3 +25,14 @@ echo 'alias gs="git status"' >> ~/.bashrc
 ## Visual Studio Code
 
 Visual Studio Code is the editor we will all be working on to start the course. To install it, visit the [Visual Studio Code website](https://code.visualstudio.com) and click the big green button that says **Download for Windows**.
+
+## Install Slack (Accepted Students Only)
+
+> **Note:** Only install this tool if/when you are accepted to NSS
+
+Our main way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/windows) now when you receive your invitation from admissions, immediately join and make sure you join your cohort channel. Our admissions team will send your an email inviting you to join. Be on the lookout for that email.
+
+When you create your Slack account, you must:
+
+1. Use your real name.
+1. Add a picture so we can recognize you.
