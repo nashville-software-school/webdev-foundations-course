@@ -110,7 +110,8 @@ The Windows operating system will easily work for a Python cohort, but setup and
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Hard drive</p>
-        512GB minimum
+        <div>256GB minimum</div>
+        <div>512GB preferred</div>
     </li>
 </ul>
 
