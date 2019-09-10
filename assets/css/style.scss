@@ -7,14 +7,18 @@
 @import "anchor";
 
 .assessment {
-    margin-top: 4em;
+    margin-top: 2em;
     display: flex;
     justify-content: center;
     flex-direction: row;
 }
 
-.project-tagline, .page-header > .btn {
+.page-header > .btn {
     display: none;
+}
+
+.project-tagline {
+    margin-bottom: 1px;
 }
 
 @keyframes jiggle {

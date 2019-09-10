@@ -9,9 +9,29 @@
     </ul>
 </nav>
 
+# Before You Start
+
+You must to create accounts on the completely free resources that you will be using during the Foundations Course.
+
+1. Register with [Codecademy](https://www.codecademy.com/register)
+1. Register with [Free Code Camp](https://www.freecodecamp.org/signin)
+1. Register with [repl.it](https://repl.it/signup)
+
+Once you have created your accounts, you must share them with us. Just click this **large, blue** button to send them.
+
+<div class="assessment">
+    <a class="button blue"
+       href="https://docs.google.com/forms/d/e/1FAIpQLScTx65ruOT4f6SDAnmTvcU1M2KZv_6fGsVXDxxOaGkUj9xnhQ/viewform?usp=sf_link"
+       target="_blank">Send my Free Resource Profiles to NSS</a>
+</div>
+
 # Book 2 - The Visible Web
 
 In this book, you will learn some fundamental concepts and skills in building HTML and CSS to build the part of software that humans interact with on web sites. As always, you are encouraged to reach out for help if you struggle with any of the steps or code in this book.
+
+## HTML Foundations Course
+
+Now that you know what is expected from you, it's time to start working on the Foundations Course work. Click on each of the links below and work on the material in each one.
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
@@ -34,17 +54,6 @@ In this book, you will learn some fundamental concepts and skills in building HT
         <a href="./chapters/CSS_DOG.html">HTML Dog - Beginner CSS</a>
     </li>
 </ul>
-
-## Check Your Knowledge
-
-Once you have completed the exercises, you need to click the button below and see how far you have come. Please use all resources at your disposal - your code, the exercise content, Google - when you are making choices.
-
-<div class="assessment">
-    <a
-        class="button yellow"
-        href="https://docs.google.com/forms/d/e/1FAIpQLScO6_CS2z0YlSmsvyRlCg6cFzBZMnExruy64RSac1E4h_n0Bg/viewform?usp=sf_link"
-        target="_blank">Show Us What You Have Learned</a>
-</div>
 
 <br/>
 <br/>

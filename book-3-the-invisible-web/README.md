@@ -14,6 +14,32 @@
 
 In this book, you will learn some fundamental concepts and skills in writing the logic and operations that power modern websites in the JavaScript language. The first three months at Nashville Software School focuses almost exclusively on building applications for the browser with JavaScript.
 
+## Are You Prepared?
+
+Once you have completed the work below, click these **giant, yellow** buttons and see how far you have come. Please use all resources at your disposal - your code, the exercise content, Google, etc.
+
+<div class="assessment">
+    <a class="button yellow"
+       href="https://repl.it/classroom/invite/WM91h85"
+       target="_blank">Do I Understand JavaScript Conditions?</a>
+</div>
+
+<div class="assessment">
+    <a class="button yellow"
+       href="https://repl.it/classroom/invite/WXq31Wm"
+       target="_blank">Do I Understand JavaScript Iteration?</a>
+</div>
+
+<div class="assessment">
+    <a class="button yellow"
+       href="https://repl.it/classroom/invite/XODnlYP"
+       target="_blank">Do I Understand JavaScript Functions?</a>
+</div>
+
+## JavaScript Foundations Course
+
+Now that you know what is expected from you, it's time to start working on the Foundations Course work. Click on each of the links below and work on the material in each one.
+
 Making as much progress on JavaScript is **critical** to your success early in the course.
 
 <ul class="list list--doubleItems">
@@ -37,17 +63,6 @@ Making as much progress on JavaScript is **critical** to your success early in t
         <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
     </li>
 </ul>
-
-## Check Your Knowledge
-
-Once you have completed the exercises, you need to click the button below and see how far you have come. Please use all resources at your disposal - your code, the exercise content, Google - when you are making choices.
-
-<div class="assessment">
-    <a
-        class="button yellow"
-        href="https://docs.google.com/forms/d/e/1FAIpQLSciTusu81NaXYEgjoBNvbjIkO2lQ2U3MGp70SN9p7FgInmmGA/viewform?usp=sf_link"
-        target="_blank">Show Us What You Have Learned</a>
-</div>
 
 <br/>
 <br/>
