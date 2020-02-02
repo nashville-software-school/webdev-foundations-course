@@ -1,7 +1,7 @@
 <nav>
   <ul class="list list--books">
     <li class="left">
-        <span>Previous:</span> <a href="../book-3-the-invisible-web">Book 3 - The Invisible Web</a>
+        <span>Previous:</span> <a href="../book-3-the-visible-web">Book 3 - The Visible Web</a>
     </li>
     <li class="right">
         <span>Next:</span> Attend NSS
@@ -131,9 +131,9 @@ If you want to gain more in-depth knowledge about how to use the terminal on you
         <a href="../book-1-your-computer/">Book 1 - Getting Started</a>
     </li>
     <li>
-        <a href="../book-2-the-visible-web/">Book 2 - The Visible Web</a>
+        <a href="../book-2-the-invisible-web/">Book 2 - The Invisible Web</a>
     </li>
     <li>
-        <a href="../book-3-the-invisible-web/">Book 3 - The Invisible Web</a>
+        <a href="../book-3-the-visible-web/">Book 3 - The Visible Web</a>
     </li>
 </ul>

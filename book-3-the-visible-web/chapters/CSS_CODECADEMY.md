@@ -1,4 +1,4 @@
-[Welcome](../../) > [Book 2 - The Visible Web](../README.md) > Codecademy CSS
+[Welcome](../../) > [Book 3 - The Visible Web](../README.md) > Codecademy CSS
 
 # Learn CSS at Codecademy
 

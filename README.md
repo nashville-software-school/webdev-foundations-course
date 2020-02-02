@@ -24,7 +24,7 @@ We talk very little about theory. Just enough to support your ability to write c
 
 Most of it will be bad.
 
-That's a good thing, because we _want you to make as many mistakes as possible_. That sounds strange that we would want you to do things incorrectly, but it is an important step in learning.
+That's a good thing, because we _want you to make as many mistakes as possible_. It sounds strange that we would want you to do things incorrectly, but it is an important step in learning.
 
 Read the following two foreword chapters to discover about what we expect from our students, and see our recommendations for your hardware during your cohort.
 
@@ -63,10 +63,10 @@ Make a plan. Stick with it. Decide on how long you want to study each day _(we r
 
 <ul>
     <li>
-        <a href="./book-2-the-visible-web/">Book 2 - The Visible Web</a>
+        <a href="./book-2-the-invisible-web/">Book 2 - The Invisible Web</a>
     </li>
     <li>
-        <a href="./book-3-the-invisible-web/">Book 3 - The Invisible Web</a>
+        <a href="./book-3-the-visible-web/">Book 3 - The Visible Web</a>
     </li>
     <li>
         <a href="./book-4-terminal-velocity/">Book 4 - Terminal Velocity</a>

@@ -1,4 +1,4 @@
-[Welcome](../../) > [Book 2 - The Visible Web](../README.md) > HTML Dog CSS Course
+[Welcome](../../) > [Book 3 - The Visible Web](../README.md) > HTML Dog CSS Course
 
 # Adding CSS to your Web Page
 
@@ -37,4 +37,4 @@ Visit the HTML Dog [CSS Beginner Tutorial](https://www.htmldog.com/guides/css/be
 
 | Previous Chapter | Next Chapter |
 | :------------- |:-------------|
-| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 3 - The Invisible Web](../../book-3-the-invisible-web/README.md) |
+| [Codecademy CSS Course](./CSS_CODECADEMY.md) | [Book 2 - The Invisible Web](../../book-2-the-invisible-web/README.md) |

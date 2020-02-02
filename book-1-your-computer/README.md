@@ -4,7 +4,7 @@
             <span>Previous: </span><a href="../">Welcome</a>
         </li>
         <li class="right">
-            <span>Next:</span> <a href="../book-2-the-visible-web">Book 2 - The Visible Web</a>
+            <span>Next:</span> <a href="../book-2-the-invisible-web">Book 2 - The Invisible Web</a>
         </li>
     </ul>
 </nav>
@@ -65,10 +65,10 @@ If you have a Windows machine, follow the instructions in the following three ch
         <a href="../">Welcome</a>
     </li>
     <li>
-        <a href="../book-2-the-visible-web/">Book 2 - The Visible Web</a>
+        <a href="../book-2-the-invisible-web/">Book 2 - The Invisible Web</a>
     </li>
     <li>
-        <a href="../book-3-the-invisible-web/">Book 3 - The Invisible Web</a>
+        <a href="../book-3-the-visible-web/">Book 3 - The Visible Web</a>
     </li>
     <li>
         <a href="../book-4-terminal-velocity/">Book 4 - Terminal Velocity</a>

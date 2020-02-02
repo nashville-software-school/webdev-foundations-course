@@ -1,4 +1,4 @@
-[Welcome](../../) > [Book 2 - The Visible Web](../README.md) > HTML Dog - Beginner HTML
+[Welcome](../../) > [Book 3 - The Visible Web](../README.md) > HTML Dog - Beginner HTML
 
 # HTML Dog - Beginner HTML Tutorial
 
