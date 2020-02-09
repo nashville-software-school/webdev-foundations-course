@@ -75,6 +75,10 @@ Making as much progress on JavaScript is **critical** to your success early in t
         <p class="listItem__header">Part 3</p>
         <a href="./chapters/JS_LEARNCODE.html">LearnCode Academy</a>
     </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/JS_LEARNCODE.html">LearnCode Academy</a>
+    </li>
 </ul>
 
 ## Section 2: HTML, CSS, and JavaScript Working Together
