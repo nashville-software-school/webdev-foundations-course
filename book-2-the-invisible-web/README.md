@@ -76,7 +76,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
         <a href="./chapters/JS_REPL_VARIABLES.html">Introduction to Variables</a>
     </li>
     <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 3</p>
+        <p class="listItem__header">Part 4</p>
         <a href="./chapters/JS_LEARNCODE.html">LearnCode Academy</a>
     </li>
 </ul>
