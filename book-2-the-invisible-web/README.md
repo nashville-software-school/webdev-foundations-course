@@ -60,7 +60,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <a href="./chapters/JS_CODECADEMY.html">Codecademy - Intro To JavaScript</a>
+        <a href="./chapters/JS_REPL_VARIABLES.html">Introduction to Variables</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
@@ -68,12 +68,10 @@ Making as much progress on JavaScript is **critical** to your success early in t
     </li>
 </ul>
 
-
-
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <a href="./chapters/JS_REPL_VARIABLES.html">Introduction to Variables</a>
+        <a href="./chapters/JS_CODECADEMY.html">Codecademy - Intro To JavaScript</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
