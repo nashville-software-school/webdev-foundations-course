@@ -51,7 +51,7 @@ Once you have completed the work below, click these **giant, yellow** buttons an
        target="_blank">Do I Understand JavaScript Functions?</a>
 </div>
 
-## JavaScript Foundations Course
+## Section 1: JavaScript Foundations Course
 
 Now that you know what is expected from you, it's time to start working on the Foundations Course work. Click on each of the links below and work on the material in each one.
 
@@ -64,18 +64,36 @@ Making as much progress on JavaScript is **critical** to your success early in t
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <a href="./chapters/JS_DOG.html">HTML Dog - JavaScript Tutorial</a>
+        <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
     </li>
 </ul>
+
+
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
         <a href="./chapters/JS_LEARNCODE.html">LearnCode Academy</a>
     </li>
+</ul>
+
+## Section 2: HTML, CSS, and JavaScript Working Together
+
+<ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 4</p>
-        <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
+        <p class="listItem__header">Part 1</p>
+        <a href="./chapters/HTML_DOG.html">HTML Dog - Beginner HTML</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 2</p>
+        <a href="./chapters/CSS_DOG.html">HTML Dog - Beginner CSS</a>
+    </li>
+</ul>
+
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/JS_DOG.html">HTML Dog - JavaScript Tutorial</a>
     </li>
 </ul>
 

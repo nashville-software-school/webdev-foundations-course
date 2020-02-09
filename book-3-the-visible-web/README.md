@@ -15,9 +15,9 @@ In this book, you will learn some fundamental concepts and skills in building HT
 
 > **Important:** If you did not complete Book 2 to 100% completion, you must go back and do that. This book covers HTML and CSS, which is a miniscule part of the course. If you do not complete your JavaScript course, then you aren't prepared for NSS. We would rather you go back and do the JavaScript course **all over again** than spend too much time on HTML and CSS.
 
-## HTML Foundations Course
+## HTML &amp; CSS Foundations Course
 
-Now that you know what is expected from you, it's time to start working on the Foundations Course work. Click on each of the links below and work on the material in each one.
+These free courses allow you to practice more with HTML and CSS. Click on each of the links below and work on the material in each one.
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
@@ -25,19 +25,8 @@ Now that you know what is expected from you, it's time to start working on the F
         <a href="./chapters/HTML_CODECADEMY.html">Codecademy HTML</a>
     </li>
     <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 2</p>
-        <a href="./chapters/HTML_DOG.html">HTML Dog - Beginner HTML</a>
-    </li>
-</ul>
-
-<ul class="list list--doubleItems">
-    <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
         <a href="./chapters/CSS_CODECADEMY.html">Codecademy CSS</a>
-    </li>
-    <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 4</p>
-        <a href="./chapters/CSS_DOG.html">HTML Dog - Beginner CSS</a>
     </li>
 </ul>
 
