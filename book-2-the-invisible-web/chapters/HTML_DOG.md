@@ -18,7 +18,8 @@ You need to make sure that you can run Visual Studio Code from the command line.
     1. On Mac, `shift+command+p`
 1. A list of commands will immediately appear with an input field.
 1. Type in the following text, "shell command" and the list of command will filter down to 2 options.
-1. Select the *_Install 'code' command in PATH_* option.
+1. Select the _**Install 'code' command in PATH**_ option.
+    > If ths option doesn't appear for you, that's fine. You will need to open your directory manually on step 9 below.
 1. Close Visual Studio Code and move on to the next series of instructions.
 
 ![installing shell command](./images/install-shell-command.gif)
@@ -85,12 +86,12 @@ You need to make sure that you can run Visual Studio Code from the command line.
     code .
     ```
 
+    If you were not able to get the _**Install 'code' command in PATH**_ command to work earlier, then you will need to do one of the following.
+    * On Windows, click the File menu at the top and choose "Open Folder". Then find the `workspace/foundations` directory and double-click it.
+    * On Mac hit the `Command+O` key combination. Then find the `workspace/foundations` directory and double-click it.
 1. Once Code finishes loading, on the left you will see the `myfirstpage.html` file. Double-click it to start editing. You can even start typing "html" and choose the "html:5" option to get some boilerplate code given to you.
-
     ![opening html file](./images/open-html.gif)
-
 1. Now you're ready to start on your next assignment. Read the notes below before you begin.
-
 > **NOTE:** HTML Dog suggests you use Notepad, but you will use Visual Studio Code as your editor.
 
 > **NOTE:** While you are working, if you close Chrome completely, or just the tab you are working on, you can always open a new tab and use `ctrl+O` on Windows or `command+O` on Mac to open your file again. That's an O, not a zero.
