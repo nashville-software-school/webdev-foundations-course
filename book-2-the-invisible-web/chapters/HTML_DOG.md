@@ -91,6 +91,8 @@ You need to make sure that you can run Visual Studio Code from the command line.
     * On Mac hit the `Command+O` key combination. Then find the `workspace/foundations` directory and double-click it.
 1. Once Code finishes loading, on the left you will see the `myfirstpage.html` file. Double-click it to start editing. You can even start typing "html" and choose the "html:5" option to get some boilerplate code given to you.
     ![opening html file](./images/open-html.gif)
+1. Open Chrome and click the File menu at the top and choose _Open file..._
+1. Browse to your directory. You can start by clicking on your username on the left. Then choose **workspace**, then **foundations**, then **html**. This will open your web page in the browser.
 1. Now you're ready to start on your next assignment. Read the notes below before you begin.
 > **NOTE:** HTML Dog suggests you use Notepad, but you will use Visual Studio Code as your editor.
 
