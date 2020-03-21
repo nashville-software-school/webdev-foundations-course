@@ -1,4 +1,4 @@
-[Welcome](../../) > [Book 3 - The Visible Web](../README.md) > HTML Dog - Beginner HTML
+[Welcome](../../) > [Book 2 - The Invisible Web](../README.md) > HTML Dog - Beginner HTML
 
 # HTML Dog - Beginner HTML Tutorial
 
@@ -99,3 +99,7 @@ You need to make sure that you can run Visual Studio Code from the command line.
 ## Assignment
 
 Visit and complete the [HTML Beginner Tutorial](https://www.htmldog.com/guides/html/beginner/) course on HTML Dog. They estimate that it will take four hours of your time to read the content, work on exercises, and complete the project(s) they assign you. We want you to start with this course because it has you coding immediately, not doing a lot of reading about theory.
+
+| Previous Chapter | Next Chapter |
+| :------------- |:-------------|
+| [LearnCode Academy](./JS_LEARNCODE.md) | [HTML Dog - CSS](./CSS_DOG.md) |
