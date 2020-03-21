@@ -49,30 +49,24 @@ You need to make sure that you can run Visual Studio Code from the command line.
     cd foundations
     ```
 
-1. You will be working on HTML, CSS and JavaScript during the *Foundations Course*, so to keep your work organized, make three new sub-directories to hold the work for each of these languages.
+1. You will be working on HTML, CSS and JavaScript during the HTML Dog project, so to keep your work organized, make a new directory in foundations for that work.
 
     ```sh
-    mkdir html
-    mkdir css
-    mkdir javascript
+    mkdir htmldog
     ```
+    ![workspace directory contents](./images/making-htmldog-directory.gif)
 
     This is how your directory structure will look in Mac Finder or Windows File Explorer.
 
-    ![workspace directory contents](./images/workspace.png)
-1. Then move to your `html` directory.
-
-    ```sh
-    cd html
-    ```
+    ![workspace directory contents](./images/finder-directory-structure.gif)
 
 1. Now use your `pwd` command to see where you are currently located in your terminal. You should see the following path at the end of the output. There will be more information to the left, but that is different for everyone. As long as the last three directory look like the path below, you are fine.
 
     ```sh
-    workspace/foundations/html
+    workspace/foundations/htmldog
     ```
 
-1. The next assignment asks you to create a file named `myfirstpage.html` so you can create it in this directory. Use the `touch` command to create the file and then use the `ls` command to list the contents of the directory.
+1. The HTML Dog project asks you to create a file named `myfirstpage.html` so you can create it in this directory. Use the `touch` command to create the file and then use the `ls` command to list the contents of the directory.
 
     ```sh
     touch myfirstpage.html
@@ -80,20 +74,24 @@ You need to make sure that you can run Visual Studio Code from the command line.
     ```
 
     ![creating html file](./images/create-html-file.gif)
-1. Now launch Visual Studio Code and it will start with the files in this directory automatically ready to be accessed and edited. Putting the dot after the `code` command is important - don't forget it.
+1. Now start your Visual Studio Code editor and it will start with the files in this directory automatically ready to be accessed and edited. Putting the dot after the `code` command is important - don't forget it.
 
     ```sh
     code .
     ```
 
     If you were not able to get the _**Install 'code' command in PATH**_ command to work earlier, then you will need to do one of the following.
-    * On Windows, click the File menu at the top and choose "Open Folder". Then find the `workspace/foundations` directory and double-click it.
-    * On Mac hit the `Command+O` key combination. Then find the `workspace/foundations` directory and double-click it.
+    * On Windows, click the File menu at the top and choose "Open Folder". Then find the `workspace/foundations/htmldog` directory and double-click it.
+    * On Mac hit the `Command+O` key combination. Then find the `workspace/foundations/htmldog` directory and double-click it.
+
+    ![opening directory manually](./images/manual-open-vscode.gif)
 1. Once Code finishes loading, on the left you will see the `myfirstpage.html` file. Double-click it to start editing. You can even start typing "html" and choose the "html:5" option to get some boilerplate code given to you.
     ![opening html file](./images/open-html.gif)
 1. Open Chrome and click the File menu at the top and choose _Open file..._
-1. Browse to your directory. You can start by clicking on your username on the left. Then choose **workspace**, then **foundations**, then **html**. This will open your web page in the browser.
+1. Browse to your **htmldog** directory and open the `myfirstpage.html` file. This will open your web page in the browser.
+    ![animation of opening file in the web browser](./images/open-file-in-chrome.gif)
 1. Now you're ready to start on your next assignment. Read the notes below before you begin.
+
 > **NOTE:** HTML Dog suggests you use Notepad, but you will use Visual Studio Code as your editor.
 
 > **NOTE:** While you are working, if you close Chrome completely, or just the tab you are working on, you can always open a new tab and use `ctrl+O` on Windows or `command+O` on Mac to open your file again. That's an O, not a zero.
