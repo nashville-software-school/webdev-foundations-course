@@ -64,18 +64,18 @@ Making as much progress on JavaScript is **critical** to your success early in t
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
+        <a href="./chapters/JS_REPL_ARRAYS.html">Introduction to Arrays</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <a href="./chapters/JS_CODECADEMY.html">Codecademy - Intro To JavaScript</a>
+        <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <a href="./chapters/JS_LEARNCODE.html">LearnCode Academy</a>
+        <a href="./chapters/JS_CODECADEMY.html">Codecademy - Intro To JavaScript</a>
     </li>
 </ul>
 
