@@ -48,7 +48,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <a target="_blank" href="https://repl.it/classroom/invite/lrD8rDV">Introduction to Functions</a>
+        <a target="_blank" href="https://repl.it/classroom/invite/rCn7VuV">Introduction to Functions</a>
 
     </li>
 </ul>
