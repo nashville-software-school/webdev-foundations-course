@@ -14,7 +14,6 @@
 You must to create accounts on the completely free resources that you will be using during the Foundations Course.
 
 1. Register with [Codecademy](https://www.codecademy.com/register)
-1. Register with [Free Code Camp](https://www.freecodecamp.org/signin)
 1. Register with [repl.it](https://repl.it/signup)
 
 Once you have created your accounts, you must share them with us. Just click this **large, blue** button to send them.
@@ -29,73 +28,50 @@ Once you have created your accounts, you must share them with us. Just click thi
 
 In this book, you will learn some fundamental concepts and skills in writing the logic and operations that power modern websites in the JavaScript language. The first three months at Nashville Software School focuses almost exclusively on building applications for the browser with JavaScript.
 
-## Are You Prepared?
-
-Once you have completed the work below, click these **giant, yellow** buttons and see how far you have come. Please use all resources at your disposal - your code, the exercise content, Google, etc.
-
-<div class="assessment">
-    <a class="button yellow"
-       href="https://repl.it/classroom/invite/WM91h85"
-       target="_blank">Do I Understand JavaScript Conditions?</a>
-</div>
-
-<div class="assessment">
-    <a class="button yellow"
-       href="https://repl.it/classroom/invite/WXq31Wm"
-       target="_blank">Do I Understand JavaScript Iteration?</a>
-</div>
-
-<div class="assessment">
-    <a class="button yellow"
-       href="https://repl.it/classroom/invite/XODnlYP"
-       target="_blank">Do I Understand JavaScript Functions?</a>
-</div>
-
-## Section 1: JavaScript Foundations Course
-
-Now that you know what is expected from you, it's time to start working on the Foundations Course work. Click on each of the links below and work on the material in each one.
-
 Making as much progress on JavaScript is **critical** to your success early in the course.
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <a href="./chapters/JS_REPL_VARIABLES.html">Introduction to Variables</a>
+        <a target="_blank" href="https://repl.it/classroom/invite/l7DkvOG">Introduction to Variables</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <a href="./chapters/JS_REPL_ARRAYS.html">Introduction to Arrays</a>
+        <a target="_blank" href="https://repl.it/classroom/invite/lgDSk7q">Introduction to Arrays</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <a href="./chapters/JS_FREECODECAMP.html">Free Code Camp</a>
+        <a target="_blank" href="https://repl.it/classroom/invite/lrD8rDV">Introduction to Objects</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <a href="./chapters/JS_CODECADEMY.html">Codecademy - Intro To JavaScript</a>
-    </li>
-</ul>
+        <a target="_blank" href="https://repl.it/classroom/invite/lrD8rDV">Introduction to Functions</a>
 
-## Section 2: HTML, CSS, and JavaScript Working Together
-
-<ul class="list list--doubleItems">
-    <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 1</p>
-        <a href="./chapters/HTML_DOG.html">HTML Dog - Beginner HTML</a>
-    </li>
-    <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 2</p>
-        <a href="./chapters/CSS_DOG.html">HTML Dog - Beginner CSS</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 3</p>
-        <a href="./chapters/JS_DOG.html">HTML Dog - JavaScript Tutorial</a>
+        <p class="listItem__header">Part 5</p>
+        <a target="_blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy - Intro To JavaScript</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 6</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/WM91h85">Practice Conditional Logic</a>
+    </li>
+</ul>
+
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 7</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/WXq31Wm">Practice Arrays and Iteration</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 8</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/XODnlYP">Practice Functions</a>
     </li>
 </ul>
 

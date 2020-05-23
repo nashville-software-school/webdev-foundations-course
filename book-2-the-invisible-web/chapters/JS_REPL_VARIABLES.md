@@ -2,7 +2,7 @@
 
 # Introduction to Variables
 
-In this chapter, you will be usng the repl.it website to enroll in a course entitled "Introduction to JavaScript Variables". There are seven exercises total show you how to use variables and basic logic in JavaScript.
+In this chapter, you will be using the repl.it website to enroll in a course entitled "Introduction to JavaScript Variables". There are seven exercises total show you how to use variables and basic logic in JavaScript.
 
 <ul class="single-item">
     <li>
