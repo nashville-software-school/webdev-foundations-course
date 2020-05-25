@@ -52,6 +52,13 @@ If you have a Windows machine, follow the instructions in the following three ch
     </li>
 </ul>
 
+## Next: JavaScript and the Invisible Web
+
+Once you are done setting up your computer, it is time to start practicing JavaScript. You will spend at least 90% of your time in the first three months trying to gain proficiency in JavaScript, so it is the most crucial part of the Foundations Course.
+
+<a href="../book-2-the-invisible-web">Go to Book 2 - The Invisible Web</a>
+
+
 <br/>
 <br/>
 <br/>

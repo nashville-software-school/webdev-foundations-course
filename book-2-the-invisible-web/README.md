@@ -18,6 +18,10 @@ You must to create accounts on the completely free resources that you will be us
 
 Once you have created your accounts, you must share them with us. Just click this **large, blue** button to send them.
 
+> **Important:** After you create your Codecademy account, make sure that your profile is publicly accessible.
+
+![animation showing how to make profile public](./chapters/images/codecademy-profile.gif)
+
 <div class="assessment">
     <a class="button blue"
        href="https://docs.google.com/forms/d/e/1FAIpQLScTx65ruOT4f6SDAnmTvcU1M2KZv_6fGsVXDxxOaGkUj9xnhQ/viewform?usp=sf_link"
