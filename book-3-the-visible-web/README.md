@@ -25,8 +25,19 @@ These free courses allow you to practice more with HTML and CSS. Click on each o
         <a href="./chapters/HTML_CODECADEMY.html">Codecademy HTML</a>
     </li>
     <li class="listItem listItem--doubleItems">
-        <p class="listItem__header">Part 3</p>
+        <p class="listItem__header">Part 2</p>
         <a href="./chapters/CSS_CODECADEMY.html">Codecademy CSS</a>
+    </li>
+</ul>
+
+<ul class="list list--doubleItems">
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 3</p>
+        <a href="./chapters/CSS_FLEXBOX.html">Learn Flexbox</a>
+    </li>
+    <li class="listItem listItem--doubleItems">
+        <p class="listItem__header">Part 4</p>
+        <a href="./chapters/CSS_FLEXBOX_IO.html">What the Flexbox</a>
     </li>
 </ul>
 
