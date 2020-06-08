@@ -37,22 +37,26 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <a target="_blank" href="https://repl.it/classroom/invite/l7DkvOG">Introduction to Variables</a>
+        <p>The content and exercises in this part will introduce you to the fundamental syntax of using variables and values in a software language.</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/l7DkvOG">Introduction to JavaScript Variables</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <a target="_blank" href="https://repl.it/classroom/invite/lgDSk7q">Introduction to Arrays</a>
+        <p>Next up is arrays. An array is a structure in JavaScript that lets you store multiple values together in a single collection.</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/lgDSk7q">Introduction to JavaScript Arrays</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <a target="_blank" href="https://repl.it/classroom/invite/lrD8rDV">Introduction to Objects</a>
+        <p>An object is another structure that software developers use to represent the real-world things that they write software to automate - people, cars, toys, processes, etc.</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/lrD8rDV">Introduction to JavaScript Objects</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <a target="_blank" href="https://repl.it/classroom/invite/rCn7VuV">Introduction to Functions</a>
+        <p>Software developers use functions to break down a complex series of steps into fine-grained tasks that should be completed in a specific order.</p>
+        <a target="_blank" href="https://repl.it/classroom/invite/rCn7VuV">Introduction to JavaScript Functions</a>
 
     </li>
 </ul>
@@ -60,10 +64,12 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 5</p>
+        <p>Now go to the Codecademy platform that take their introduction to JavaScript course and practice fundamentals even more. The more you practice, the more prepared you are for NSS.</p>
         <a target="_blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy - Intro To JavaScript</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 6</p>
+        <p>Now that you have done some introductory exercises about variables and <strong>if/then</strong> statements, it's time to practice those concepts.</p>
         <a target="_blank" href="https://repl.it/classroom/invite/WM91h85">Practice Conditional Logic</a>
     </li>
 </ul>
@@ -71,13 +77,21 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 7</p>
+        <p>Next, practice putting multiple values into arrays and perform simple operations on those values.</p>
         <a target="_blank" href="https://repl.it/classroom/invite/WXq31Wm">Practice Arrays and Iteration</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 8</p>
+        <p>Finally, practice writing functions to define tasks that your software must perform.</p>
         <a target="_blank" href="https://repl.it/classroom/invite/XODnlYP">Practice Functions</a>
     </li>
 </ul>
+
+## Next: Structure and Styling
+
+The next part is working with HTML and CSS to define the structure of a web page, and then use styles to position, space, and layout your content..
+
+<a href="../book-3-the-visible-web">Go to Book 3 - The Visible Web</a>
 
 <br/>
 <br/>
