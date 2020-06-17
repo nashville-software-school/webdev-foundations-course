@@ -64,7 +64,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 5</p>
-        <p>Now go to the Codecademy platform that take their introduction to JavaScript course and practice fundamentals even more. The more you practice, the more prepared you are for NSS.</p>
+        <p>Now go to the Codecademy platform that take their introduction to JavaScript course. You only need to work through chapters 1-8 in the free tier material.</p>
         <a target="_blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy - Intro To JavaScript</a>
     </li>
     <li class="listItem listItem--doubleItems">
