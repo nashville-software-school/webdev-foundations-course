@@ -9,32 +9,6 @@
     </ul>
 </nav>
 
-# Before You Start
-
-## Codecademy
-
-1. Register with [Codecademy](https://www.codecademy.com/register)
-1. Make sure that your profile is publicly accessible. The animation below shows you how to do that.
-
-![animation showing how to make profile public](./chapters/images/codecademy-profile.gif)
-
-## FreeCodeCamp
-
-1. Register with [FreeCodeCamp](https://www.freecodecamp.org/).
-1. Make sure that the information on your profile is publicly accessible. The animation below shows you how to do that.
-
-![animation showing how to make profile public](./chapters/images/freecodecamp.gif)
-
-
-1. Once you have created your accounts, share your account URL with us. Just click this **large, blue** button to send them.
-<div class="assessment">
-    <a class="button blue"
-       href="https://forms.gle/ZattQJCXHpeAzGmG9"
-       target="_blank">Send my Free Resource Profiles to NSS</a>
-</div>
-
-
-
 # Book 2 - The Invisible Web
 
 In this book, you will learn some fundamental concepts and skills in writing the logic and operations that power modern websites in the JavaScript language. The first three months at Nashville Software School focuses almost exclusively on building applications for the browser with JavaScript.

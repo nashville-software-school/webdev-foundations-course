@@ -10,11 +10,11 @@
 </nav>
 
 
-# Book 1 - Your Computer
+# Book 1 - Software Installations and Accounts
 
 In this book, you will learn the basics of using your computer and using your keyboard. These are crucial to start with because you will be typing more than you ever have before (unless you're a novelist), and being comfortable with using keyboard shortcuts and navigating your operating system will save you a tremendous amount of time while you are coding.
 
-## Setting up OSX
+## Setting up Mac OS
 
 If you have a Mac, follow the instructions in the following three chapters.
 
@@ -52,9 +52,36 @@ If you have a Windows machine, follow the instructions in the following three ch
     </li>
 </ul>
 
+## Create Required Accounts
+
+### Codecademy
+
+1. Register with [Codecademy](https://www.codecademy.com/register)
+1. Make sure that your profile is publicly accessible. The animation below shows you how to do that.
+
+![animation showing how to make profile public](./chapters/images/codecademy-profile.gif)
+
+### FreeCodeCamp
+
+1. Register with [FreeCodeCamp](https://www.freecodecamp.org/).
+1. Make sure that the information on your profile is publicly accessible. The animation below shows you how to do that.
+
+![animation showing how to make profile public](./chapters/images/freecodecamp.gif)
+
+### Provide Your Profile URLs
+
+Once you have created your accounts, share your account URL with us. Just click this **large, blue** button to send them.
+
+<div class="assessment">
+    <a class="button blue"
+       href="https://forms.gle/ZattQJCXHpeAzGmG9"
+       target="_blank">Send my Free Resource Profiles to NSS</a>
+</div>
+
+
 ## Next: JavaScript and the Invisible Web
 
-Once you are done setting up your computer, it is time to start practicing JavaScript. You will spend at least 90% of your time in the first three months trying to gain proficiency in JavaScript, so it is the most crucial part of the Foundations Course.
+Now that you have access to the free material, it is time to start practicing JavaScript. You will spend at least 90% of your time in the first three months trying to gain proficiency in JavaScript, so it is the most crucial part of the Foundations Course.
 
 <a href="../book-2-the-invisible-web">Go to Book 2 - The Invisible Web</a>
 
