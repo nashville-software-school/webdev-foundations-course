@@ -23,12 +23,12 @@ It's fun.
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
         <p>This course shows you how to use some popular HTML elements for building a web page. There is some CSS code, but the focus is on HTML.</p>
-        <a target="_blank" href="https://scrimba.com/course/ghtml">Scrimba: Introduction to HTML</a>
+        <a target="_blank" href="https://scrimba.com/learn/html">Scrimba: Introduction to HTML</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
         <p>The introduction to CSS course digs into the foundations of Cascading Style Sheets and shows you all of the features that developers use most often.</p>
-        <a target="_blank" href="https://scrimba.com/course/gintrotocss">Scrimba: Introduction to CSS</a>
+        <a target="_blank" href="https://scrimba.com/learn/introtocss">Scrimba: Introduction to CSS</a>
     </li>
 </ul>
 
@@ -36,12 +36,12 @@ It's fun.
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
         <p>The course takes you on a journey on how to combine HTML structure, and CSS fundamentals, and ends with introducing you to Flexbox for making creative web page layouts.</p>
-        <a target="_blank" href="https://scrimba.com/course/ghtmlcss">Scrimba: HTML &amp; CSS Crash Course</a>
+        <a target="_blank" href="https://scrimba.com/learn/htmlcss">Scrimba: HTML &amp; CSS Crash Course</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <p>This amazing course dives deeper into the details of Flexbox where you get to play around with the different powers of the tool.</p>
-        <a target="_blank" href="https://scrimba.com/g/gflexbox">Scrimba: Learn Flexbox</a>
+        <p>This course dives deeper into the details of Flexbox where you get to explore creating innovate structure and layouts for a web page.</p>
+        <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/#css-flexbox">Freecodecamp: CSS Flexbox</a>
     </li>
 </ul>
 

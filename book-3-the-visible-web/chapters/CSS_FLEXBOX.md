@@ -10,4 +10,4 @@ In this part of the Foundations Course, you will be watching an interactive vide
 
 Take every opportunity to try the CSS yourself when the narrator asks you to pause and try the code yourself.
 
-Watch the [Learn Flexbox](https://scrimba.com/g/gflexbox) interactive video series about the basics of using Flexbox to create flexible, scalable layouts in an HTML page.
+Watch the [Learn Flexbox](https://scrimba.com/flexbox) interactive video series about the basics of using Flexbox to create flexible, scalable layouts in an HTML page.
