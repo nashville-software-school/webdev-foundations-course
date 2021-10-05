@@ -43,7 +43,7 @@ Read the following two foreword chapters to discover what we expect from our stu
 
 # Time to get started!
 
-Start with Book 1 and work your way through the books following the order of the sections in each.
+Start with Book 1 and work your way through the books, following the order of the sections in each.
 
 Make a plan. Stick with it. Decide on how long you want to study each day _(we recommend 2 - 3 hours each day)_, and set yourself up to not have any distractions during that time.
 
