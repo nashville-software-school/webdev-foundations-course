@@ -18,15 +18,16 @@ The sessions are from 5:00 PM  to 7:00 PM.  They are an excellent opportunity fo
 
 ## Being a Student at Nashville Software School
 
-The environment at Nashville Software School is likely something you have never experienced before, especially in an educational environment. You will be coached on attaining a [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) so that you can meet all of the challenges with excitement instead of fear. You will be reading, writing, and talking about code every, single day.
+The environment at Nashville Software School is likely something you have never experienced before, especially in an educational environment. We will coach you on attaining a [Growth Mindset](https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/) so that you can meet all of the challenges with excitement instead of fear. You will be reading, writing, and talking about code every single day.
 
-We talk very little about theory. Just enough to support your ability to write code, and eventually do well on an interview. We spend over 90% of the time working on the practical skills of software development. You will be writing a tremendous amount of code.
+We talk very little about theory. Just enough to support your ability to write code, and eventually, do well on an interview. We spend over 90% of the time working on the practical skills of software development. You will be writing a tremendous amount of code.
 
 Most of it will be bad.
 
-That's a good thing, because we _want you to make as many mistakes as possible_. It sounds strange that we would want you to do things incorrectly, but it is an important step in learning.
+That is a good thing because we _want you to make as many mistakes as possible_. It sounds strange that we want you to do things incorrectly, but it is essential to learning.
 
-Read the following two foreword chapters to discover about what we expect from our students, and see our recommendations for your hardware during your cohort.
+Read the following two foreword chapters to discover what we expect from our students, and see our recommendations for your hardware during your cohort.
+
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
