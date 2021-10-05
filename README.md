@@ -2,7 +2,7 @@
 
 Thank you for choosing us to guide you through your journey to become a software developer! This **Foundations Course** is for students who have enrolled in either a day or evening Web Development cohort.
 
-We want to ensure that you are as prepared as possible for the technologies and concepts that your instruction staff will be coaching you through in the first few weeks, so we have prepared this couse to set you up for success. These resources will provide you with the basic skills, terminology, and context for what it will be like at Nashville Software School.
+We want to ensure that you are as prepared as possible for the technologies and concepts that your instruction staff will be coaching you through in the first few weeks, so we have prepared this course to set you up for success. These resources will provide you with the basic skills, terminology, and context for what it will be like at Nashville Software School.
 
 ## Foundations Course is Mandatory
 
