@@ -8,13 +8,13 @@ We want to ensure that you are as prepared as possible for the technologies and 
 
 If you do not do the **Foundations Course**, you will be immediately behind your teammates on the first day of class and are at risk of needing to move to the next cohort so that you have time to complete it.
 
-Nashville Software School is an accelerated Bootcamp, and you will hit the ground running on day one. We will assume that you have completed this work and provide minimal resources if you have not. Additionally, the life of a software developer is one of focus and meeting commitments. Completing the **Foundations Course** shows us that you can prioritize this work, focus on it, and meet the commitment of completing it.it.
+Nashville Software School is an accelerated boot camp, and you will hit the ground running on day one. We will assume that you have completed this work and provide minimal resources if you have not. Additionally, the life of a software developer is one of focus and meeting commitments. Completing the **Foundations Course** shows us that you can prioritize this work, focus on it, and meet the commitment of completing it.
 
 ## Foundation Sessions
 
-Another opportunity we provide for your Foundations is coaching sessions every Monday evening. Starting approximately four weeks before your cohort begins, you can come to ask questions, meet your teammates, and get some mentoring from NSS Alumni and Junior Instructors on this **Foundations Course**.
+Another opportunity we provide to reinforce your software development foundations is coaching sessions that start approximately four weeks before your cohort begins. You can come to ask questions, meet your teammates, and get some mentoring on this **Foundations Course** from NSS Alumni and Junior Instructors.
 
-The sessions are from 5:00 PM  to 7:00 PM.  They are an excellent opportunity for you to make sure you set yourself up for success on day one of your cohort.
+The sessions are in the evenings once a week from 5:00 PM to 7:00 PM over Zoom. They are an excellent opportunity to make sure you set yourself up for success on day one of your cohort.
 
 ## Being a Student at Nashville Software School
 
