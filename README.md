@@ -12,9 +12,9 @@ Nashville Software School is an accelerated Bootcamp, and you will hit the groun
 
 ## Foundation Sessions
 
-Another opportunity we provide for your foundations are training sessions before your cohort starts. Starting 4 weeks before the beginning of the cohort, on each Thursday evening, you can come in to ask questions, meet your teammates, and get some mentoring on this **Foundations Course**. These are a great opportunity for you to make sure you are set up for success on day one of your cohort.
+Another opportunity we provide for your Foundations is coaching sessions every Monday evening. Starting approximately four weeks before your cohort begins, you can come to ask questions, meet your teammates, and get some mentoring from NSS Alumni and Junior Instructors on this **Foundations Course**.
 
-They start at 5:00 PM and go to 7:00 PM in one of the classrooms at NSS.
+The sessions are from 5:00 PM  to 7:00 PM.  They are an excellent opportunity for you to make sure you set yourself up for success on day one of your cohort.
 
 ## Being a Student at Nashville Software School
 
