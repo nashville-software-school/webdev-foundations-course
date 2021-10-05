@@ -6,7 +6,7 @@ We want to ensure that you are as prepared as possible for the technologies and 
 
 ## Foundations Course is Mandatory
 
-If you do not do the **Foundations Course**, you will be immediately behind your teammates on the first day of class and are at risk of needing to move to the next cohort so that you have time to complete it.
+If you do not complete the **Foundations Course** before you begin, you will be unprepared on the first day of class. Without this fundamental knowledge base, you will be at risk of needing to move to the following cohort, pending your completion of the material.
 
 Nashville Software School is an accelerated boot camp, and you will hit the ground running on day one. We will assume that you have completed this work and provide minimal resources if you have not. Additionally, the life of a software developer is one of focus and meeting commitments. Completing the **Foundations Course** shows us that you can prioritize this work, focus on it, and meet the commitment of completing it.
 
