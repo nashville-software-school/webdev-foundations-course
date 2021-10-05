@@ -2,17 +2,17 @@
 
 # Getting Started
 
-First, you need to install some tools that you will be using both for the Foundations Course and for your time at Nashville Software School.
+First, you need to install some tools that you will be using both for the Foundations Course and your time at Nashville Software School.
 
 ## Install Git Bash (i.e. Terminal)
 
 > **IMPORTANT:** For the remainder of the Foundations Course, when you see the words "terminal" or "command line", it means Git Bash for Windows users.
 
-Visit the [Git Bash](http://www.git-scm.com/downloads) download page click the "Download for Windows" button, and once complete, install the software. This will be your default terminal which you will use to navigate your file system, and run development tools throughout the course.
+Visit the [Git Bash](http://www.git-scm.com/downloads) download page click the "Download for Windows" button, and once complete, install the software. Git Bash will be your default terminal which you will use to navigate your file system, and run development tools throughout the course.
 
 ### Git Bash Initialization File
 
-Once Git Bash is installed, run the application. Once it is running, type in the following command. You will learn more about this command later. We know, it looks alien and scary, but it's not doing anything dangerous.  It's just creating a configuration file for your terminal.
+Once Git Bash is installed, run the application. Once it is running, type in the following command. You will learn more about this command later. We know it looks alien and scary, but it's not doing anything dangerous.  It's just creating a configuration file for your terminal.
 
 ```sh
 echo 'alias gs="git status"' >> ~/.bashrc
@@ -24,13 +24,13 @@ echo 'alias gs="git status"' >> ~/.bashrc
 
 ## Visual Studio Code
 
-Visual Studio Code is the editor we will all be working on to start the course. To install it, visit the [Visual Studio Code website](https://code.visualstudio.com) and click the big green button that says **Download for Windows**.
+Visual Studio Code is the editor we will all be working on to start the course. To install it, visit the [Visual Studio Code website](https://code.visualstudio.com) and click the big blue button that says **Download for Windows**.
 
 ## Install Slack (Accepted Students Only)
 
 > **Note:** Only install this tool if/when you are accepted to NSS
 
-Our main way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/windows) now when you receive your invitation from admissions, immediately join and make sure you join your cohort channel. Our admissions team will send your an email inviting you to join. Be on the lookout for that email.
+Our primary way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/windows) now. Our admissions team will send you an email inviting you to join. Be on the lookout for that email. When you receive your invitation from admissions, join the Nashville Software School Slack immediately, and make sure you join your cohort channel.
 
 When you create your Slack account, you must:
 

@@ -26,7 +26,7 @@ This application will allow you to use certain combinations of keys on your keyb
 
 > **Note:** Only install this tool if/when you are accepted to NSS
 
-Our main way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/mac) now. Our admissions team will send you an email inviting you to join. Be on the lookout for that email. When you receive your invitation from admissions, join the Nashville Software School Slack immediately, and make sure you join your cohort channel.
+Our primary way of communicating with students is a tool called Slack. [Download and install the application](https://slack.com/downloads/mac) now. Our admissions team will send you an email inviting you to join. Be on the lookout for that email. When you receive your invitation from admissions, join the Nashville Software School Slack immediately, and make sure you join your cohort channel.
 
 When you create your Slack account, you must:
 
