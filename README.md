@@ -14,7 +14,7 @@ Nashville Software School is an accelerated boot camp, and you will hit the grou
 
 Another opportunity we provide to reinforce your software development foundations is coaching sessions that start approximately four weeks before your cohort begins. You can come to ask questions, meet your teammates, and get some mentoring on this **Foundations Course** from NSS Alumni and Junior Instructors.
 
-The sessions are in the evenings once a week from 5:00 PM to 7:00 PM over Zoom. They are an excellent opportunity to make sure you set yourself up for success on day one of your cohort.
+The sessions are in the evenings once a week from 5:00 PM to 7:00 PM over Zoom. They are an excellent opportunities to make sure you set yourself up for success on day one of your cohort.
 
 ## Being a Student at Nashville Software School
 
