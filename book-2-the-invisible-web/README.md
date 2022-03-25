@@ -18,7 +18,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <p>Visit the the Codecademy platform and take their Introduction to JavaScript course. You only need to work through chapters 1-8 in the free tier material. <strong>Please do not sign up for any paid version of Codecademy</strong>. </p>
+        <p>Visit the the Codecademy platform and take their Introduction to JavaScript course. Go through all of the lessons in the free tier material (up to, and including, Objects). <strong>Please do not sign up for any paid version of Codecademy</strong>. </p>
         <a target="_blank" href="https://www.codecademy.com/learn/introduction-to-javascript">Codecademy: Intro To JavaScript</a>
     </li>
     <li class="listItem listItem--doubleItems">
