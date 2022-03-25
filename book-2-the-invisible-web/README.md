@@ -31,13 +31,13 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <p>As a beginner, you will make plenty of syntactic mistakes when you write code. It's normal and natural as you learn a new language. Learning how to debug (fix mistakes) code is a critical skill. </p>
-        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/">FreeCodeCamp: Debugging</a>
+        <p>Next up, it's the Learn Programming platform to practice more JavaScript, but with different explanations and new exercises. As a beginner you need to hear different voices and change context when you practice. You can make it to part <em>9. Project II</em> before they want you to pay. Work up to that and move on.</p>
+        <a target="_blank" href="https://learnprogramming.online/">Learn Programming</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
-        <p>Now that you have learned the basics of writing and debugging JavaScript, you can watch an experienced developer review some of the concepts, and try your hand at some interactive challenges.</p>
-        <a target="_blank" href="https://scrimba.com/learn/introtojavascript">Scrimba: Intro to JavaScript</a>
+        <p>As your last platform for practicing JavaScript, Educative provides simple, straightforward explanations and opportunities to practice. They estimate that this introductory course will take 8 hours.</p>
+        <a target="_blank" href="https://www.educative.io/courses/introduction-to-javascript-first-steps">Introduction to JavaScript: First Steps</a>
     </li>
 </ul>
 
