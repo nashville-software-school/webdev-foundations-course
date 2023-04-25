@@ -54,13 +54,6 @@ If you have a Windows machine, follow the instructions in the following three ch
 
 ## Create Required Accounts
 
-### Codecademy
-
-1. Register with [Codecademy](https://www.codecademy.com/register)
-1. Make sure that your profile is publicly accessible. The animation below shows you how to do that.
-
-![animation showing how to make profile public](./chapters/images/codecademy-profile.gif)
-
 ### FreeCodeCamp
 
 1. Register with [FreeCodeCamp](https://www.freecodecamp.org/).
