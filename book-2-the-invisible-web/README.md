@@ -18,22 +18,23 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
-        <p>The next step is to learn more about data structures. This is Core Knowledge that an web application developer needs to have, so you need to know the fundamental vocabulary and have some exposure to them before NSS.</p>
-        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures">FreeCodeCamp: Introduction to Basic Data Structures</a>
+        <p>Start by learning the basics of programming syntax in JavaScript at Free Code Camp. This is Core Knowledge that an web application developer needs to have, so you need to know the fundamental vocabulary and have some exposure to them before NSS.</p>
+        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript">FreeCodeCamp: Basic JavaScript</a>
     </li>
-    <li class="listItem listItem--doubleItems">
+    <li class="listItem listItem--singleItem">
         <p class="listItem__header">Part 2</p>
-        <p>As a beginner, you will make plenty of syntactic mistakes when you write code. It's normal and natural as you learn a new language. Learning how to debug (fix mistakes) code is a critical skill. </p>
-        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/">FreeCodeCamp: Debugging</a>
+        <p>Now that you have learned the basics of writing and debugging JavaScript, you can watch an experienced developer review some of the concepts, and try your hand at some interactive challenges.</p>
+        <a target="_blank" href="https://scrimba.com/learn/introtojavascript">Scrimba: Intro to JavaScript</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
-    <li class="listItem listItem--singleItem">
+<li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <p>Now that you have learned the basics of writing and debugging JavaScript, you can watch an experienced developer review some of the concepts, and try your hand at some interactive challenges.</p>
-        <a target="_blank" href="https://scrimba.com/learn/introtojavascript">Scrimba: Intro to JavaScript</a>
+        <p>As a beginner, you will make plenty of syntactic mistakes when you write code. It's normal and natural as you learn a new language. Learning how to debug (fix mistakes) code is a critical skill. </p>
+        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/">FreeCodeCamp: Debugging</a>
     </li>
+
 </ul>
 
 ## Next: Structure and Styling
