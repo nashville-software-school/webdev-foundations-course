@@ -32,7 +32,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
 <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
         <p>As a beginner, you will make plenty of syntactic mistakes when you write code. It's normal and natural as you learn a new language. Learning how to debug (fix mistakes) code is a critical skill. </p>
-        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/">FreeCodeCamp: Debugging</a>
+        <a target="_blank" href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging/">FreeCodeCamp: Debugging</a>
     </li>
 
 </ul>
