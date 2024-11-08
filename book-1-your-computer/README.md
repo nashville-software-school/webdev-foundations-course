@@ -52,7 +52,7 @@ If you have a Windows machine, follow the instructions in the following three ch
     </li>
 </ul>
 
-## Create Required Accounts
+## Create Required Account
 
 ### FreeCodeCamp
 
@@ -61,9 +61,9 @@ If you have a Windows machine, follow the instructions in the following three ch
 
 ![animation showing how to make profile public](./chapters/images/freecodecamp.gif)
 
-### Provide Your Profile URLs
+### Provide Your Profile URL
 
-Once you have created your accounts, share your account URL with us. Just click this **large, blue** button to send them.
+Once you have created your account, share your account URL with us. Just click this **large, blue** button to send them.
 
 <div class="assessment">
     <a class="button blue"

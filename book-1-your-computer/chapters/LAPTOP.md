@@ -65,7 +65,7 @@ If you already own a Mac and want to use it for the course, it must meet the fol
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Operating System</p>
-        High Sierra or Mojave
+        Monterey or Ventura
     </li>
 </ul>
 
@@ -95,7 +95,7 @@ It is recommended to have a Mac if you are in a Python cohort.
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Operating System</p>
-        High Sierra or Mojave
+        Monterey or Ventura
     </li>
 </ul>
 
@@ -123,6 +123,6 @@ The Windows operating system will easily work for a Python cohort, but setup and
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Operating System</p>
-        Windows 10
+        Windows 10 or 11
     </li>
 </ul>
