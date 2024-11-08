@@ -38,7 +38,7 @@ It is recommended that you get a laptop with the Windows operating system in you
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Operating System</p>
-        Windows 10
+        Windows 10 or 11
     </li>
 </ul>
 
@@ -60,8 +60,8 @@ If you already own a Mac and want to use it for the course, it must meet the fol
 <ul class="list list--doubleItems list--noLinks">
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">CPU</p>
-        <div>Intel i5 minimum</div>
-        <div>Intel i7 preferred</div>
+        <div>Intel i7</div>
+        <div>Apple Silicon (M1, M2, or M3)</div>
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Operating System</p>
@@ -90,8 +90,8 @@ It is recommended to have a Mac if you are in a Python cohort.
 <ul class="list list--doubleItems list--noLinks">
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">CPU</p>
-        <div>Intel i5 minimum</div>
-        <div>Intel i7 preferred</div>
+        <div>Intel i7</div>
+        <div>Apple Silicon (M1, M2, or M3)</div>
     </li>
     <li class="listItem listItem--doubleItems listItem--noLinks">
         <p class="listItem__header">Operating System</p>
