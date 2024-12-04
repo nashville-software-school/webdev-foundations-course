@@ -24,7 +24,7 @@ Making as much progress on JavaScript is **critical** to your success early in t
     <li class="listItem listItem--singleItem">
         <p class="listItem__header">Part 2</p>
         <p>Now that you have learned the basics of writing and debugging JavaScript, you can watch an experienced developer review some of the concepts, and try your hand at some interactive challenges.</p>
-        <a target="_blank" href="https://scrimba.com/learn/introtojavascript">Scrimba: Intro to JavaScript</a>
+        <a target="_blank" href="https://scrimba.com/learn-javascript-c0v">Scrimba: Learn JavaScript</a>
     </li>
 </ul>
 

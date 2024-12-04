@@ -23,20 +23,20 @@ It's fun.
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 1</p>
         <p>This course shows you how to use some popular HTML elements for building a web page. There is some CSS code, but the focus is on HTML.</p>
-        <a target="_blank" href="https://scrimba.com/learn/html">Scrimba: Introduction to HTML</a>
+        <a target="_blank" href="https://scrimba.com/html-css-crash-course-c02l">Scrimba: HTML and CSS Crash Course</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 2</p>
-        <p>The introduction to CSS course digs into the foundations of Cascading Style Sheets and shows you all of the features that developers use most often.</p>
-        <a target="_blank" href="https://scrimba.com/learn/introtocss">Scrimba: Introduction to CSS</a>
+        <p>Continue your journey by learning more about Flexbox, a feature of CSS that enables dynamic and powerful layouts on a web page.</p>
+        <a target="_blank" href="https://scrimba.com/learn-flexbox-c0k">Scrimba: Learn Flexbox</a>
     </li>
 </ul>
 
 <ul class="list list--doubleItems">
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 3</p>
-        <p>The course takes you on a journey on how to combine HTML structure, and CSS fundamentals, and ends with introducing you to Flexbox for making creative web page layouts.</p>
-        <a target="_blank" href="https://scrimba.com/learn/htmlcss">Scrimba: HTML &amp; CSS Crash Course</a>
+        <p>Time to build some more HTML and CSS projects to deepen your learning.</p>
+        <a target="_blank" href="https://scrimba.com/learn-html-and-css-c0p">Scrimba: Learn HTML and CSS</a>
     </li>
     <li class="listItem listItem--doubleItems">
         <p class="listItem__header">Part 4</p>
